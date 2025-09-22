@@ -21,7 +21,7 @@ async function connectDb() {
     });
     try {
         await pool.query("SELECT NOW()");
-        logger.info("Connected to Aiven Postgres!");
+        logger.info("Postgres Connection Successful");
     } catch (err) {
         logger.error("Failed to connect to Postgres!", err);
         process.exit(1);

@@ -1,0 +1,214 @@
+2025-09-19T10:49:32.533Z [info]: Postgres Connection Successful
+2025-09-19T10:49:32.657Z [info]: Server running on port 4000
+2025-09-19T10:51:28.624Z [info]: Retrieving transaction status for queue ID: 8817313b-c705-424d-b810-6788a885a2a9
+2025-09-19T10:51:29.524Z [info]: Transaction status retrieved for queue ID: 8817313b-c705-424d-b810-6788a885a2a9
+2025-09-19T10:55:13.200Z [info]: Postgres Connection Successful
+2025-09-19T10:55:13.307Z [info]: Server running on port 4000
+2025-09-19T10:56:23.911Z [error]: Error queueing transaction Missing required fields
+2025-09-19T10:58:51.604Z [info]: Postgres Connection Successful
+2025-09-19T10:58:51.703Z [info]: Server running on port 4000
+2025-09-19T10:59:16.685Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T10:59:17.375Z [error]: Error queueing transaction column "transaction_hash" of relation "transactions" does not exist
+2025-09-19T11:00:12.960Z [info]: Postgres Connection Successful
+2025-09-19T11:00:13.054Z [info]: Server running on port 4000
+2025-09-19T11:00:15.106Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T11:00:15.272Z [info]: Transaction queued with ID: 947f20b7-e01e-458e-b168-a5c7bece8683
+2025-09-19T11:26:33.705Z [info]: Postgres Connection Successful
+2025-09-19T11:26:33.839Z [info]: Server running on port 4000
+2025-09-19T11:27:18.570Z [info]: Postgres Connection Successful
+2025-09-19T11:27:18.676Z [info]: Server running on port 4000
+2025-09-19T11:28:16.911Z [info]: Adding wallet with public key: 0x220bE055a8F7c982C7d21575A3F33cF3370be953
+2025-09-19T11:28:18.436Z [info]: Wallet added: 0x220bE055a8F7c982C7d21575A3F33cF3370be953
+2025-09-19T11:29:35.342Z [info]: Postgres Connection Successful
+2025-09-19T11:29:35.433Z [info]: Server running on port 4000
+2025-09-19T12:31:41.761Z [info]: Postgres Connection Successful
+2025-09-19T12:31:41.861Z [info]: Server running on port 4000
+2025-09-19T12:32:28.575Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T12:32:29.649Z [error]: Error queueing transaction Cannot read properties of undefined (reading 'add')
+2025-09-19T12:33:00.676Z [info]: Postgres Connection Successful
+2025-09-19T12:33:00.789Z [info]: Server running on port 4000
+2025-09-19T12:33:02.792Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T12:33:02.988Z [info]: Transaction queued with ID: e11becbc-45e6-42b4-a80a-5e5b8597dcb0 and Job ID: 1
+2025-09-19T12:40:17.810Z [info]: Postgres Connection Successful
+2025-09-19T12:40:17.916Z [info]: Server running on port 4000
+2025-09-19T12:41:03.711Z [info]: Postgres Connection Successful
+2025-09-19T12:41:03.988Z [info]: Workers started successfully
+2025-09-19T12:41:03.992Z [info]: Server running on port 4000
+2025-09-19T12:41:04.013Z [info]: Processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0
+2025-09-19T12:41:04.075Z [error]: Error processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0: Cannot read properties of undefined (reading 'function testReturns()')
+2025-09-19T12:41:05.173Z [info]: Processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0
+2025-09-19T12:41:05.179Z [error]: Error processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0: Cannot read properties of undefined (reading 'function testReturns()')
+2025-09-19T12:41:08.266Z [info]: Processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0
+2025-09-19T12:41:08.268Z [error]: Error processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0: Cannot read properties of undefined (reading 'function testReturns()')
+2025-09-19T12:46:19.909Z [info]: Postgres Connection Successful
+2025-09-19T12:46:20.109Z [info]: Workers started successfully
+2025-09-19T12:46:20.111Z [info]: Server running on port 4000
+2025-09-19T12:46:20.126Z [info]: Processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0
+2025-09-19T12:46:20.208Z [error]: Error processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0: Cannot read properties of undefined (reading 'testReturns')
+2025-09-19T12:46:35.311Z [info]: Processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0
+2025-09-19T12:46:35.314Z [error]: Error processing job 1 for queueId e11becbc-45e6-42b4-a80a-5e5b8597dcb0: Cannot read properties of undefined (reading 'testReturns')
+2025-09-19T12:48:45.413Z [info]: Postgres Connection Successful
+2025-09-19T12:48:45.660Z [info]: Workers started successfully
+2025-09-19T12:48:45.664Z [info]: Server running on port 4000
+2025-09-19T12:49:22.606Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T12:49:23.466Z [info]: Transaction queued with ID: 43c2060a-e2ff-470f-937b-37a1745c8c2e and Job ID: 2
+2025-09-19T12:49:23.478Z [info]: Processing job 2 for queueId 43c2060a-e2ff-470f-937b-37a1745c8c2e
+2025-09-19T12:49:23.568Z [error]: Error processing job 2 for queueId 43c2060a-e2ff-470f-937b-37a1745c8c2e: Cannot read properties of undefined (reading 'testReturns')
+2025-09-19T12:53:52.078Z [info]: Postgres Connection Successful
+2025-09-19T12:53:52.222Z [info]: Workers started successfully
+2025-09-19T12:53:52.224Z [info]: Server running on port 4000
+2025-09-19T12:54:04.421Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T12:54:05.399Z [info]: Transaction queued with ID: f972ac8a-a6b0-4cbd-b1d1-d9ed3f4a53d0 and Job ID: 3
+2025-09-19T12:54:05.417Z [info]: Processing job 3 for queueId f972ac8a-a6b0-4cbd-b1d1-d9ed3f4a53d0
+2025-09-19T12:54:05.539Z [error]: Error processing job 3 for queueId f972ac8a-a6b0-4cbd-b1d1-d9ed3f4a53d0: Cannot convert undefined or null to object
+2025-09-19T12:55:17.994Z [info]: Received transaction request: function testReturns on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T12:55:18.854Z [info]: Transaction queued with ID: 9adf5ba3-ba94-439a-b23f-40d7449c54d6 and Job ID: 4
+2025-09-19T12:55:18.860Z [info]: Processing job 4 for queueId 9adf5ba3-ba94-439a-b23f-40d7449c54d6
+2025-09-19T12:55:18.883Z [error]: Error processing job 4 for queueId 9adf5ba3-ba94-439a-b23f-40d7449c54d6: Cannot read properties of null (reading 'name')
+2025-09-19T12:55:35.006Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T12:55:35.826Z [info]: Transaction queued with ID: b26e9b18-e733-472b-9c37-2caa3a277350 and Job ID: 5
+2025-09-19T12:55:35.833Z [info]: Processing job 5 for queueId b26e9b18-e733-472b-9c37-2caa3a277350
+2025-09-19T12:55:35.852Z [error]: Error processing job 5 for queueId b26e9b18-e733-472b-9c37-2caa3a277350: Cannot convert undefined or null to object
+2025-09-19T12:57:32.528Z [info]: Postgres Connection Successful
+2025-09-19T12:57:32.682Z [info]: Workers started successfully
+2025-09-19T12:57:32.683Z [info]: Server running on port 4000
+2025-09-19T12:57:36.749Z [info]: Postgres Connection Successful
+2025-09-19T12:57:36.959Z [info]: Workers started successfully
+2025-09-19T12:57:36.961Z [info]: Server running on port 4000
+2025-09-19T12:57:38.362Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T12:57:38.558Z [info]: Transaction queued with ID: d1e93500-204c-4850-983b-0af65e819231 and Job ID: 6
+2025-09-19T12:57:38.565Z [info]: Processing job 6 for queueId d1e93500-204c-4850-983b-0af65e819231
+2025-09-19T12:57:38.641Z [error]: Error processing job 6 for queueId d1e93500-204c-4850-983b-0af65e819231: Cannot convert undefined or null to object
+2025-09-19T13:03:32.187Z [info]: Postgres Connection Successful
+2025-09-19T13:03:32.380Z [info]: Workers started successfully
+2025-09-19T13:03:32.382Z [info]: Server running on port 4000
+2025-09-19T13:03:41.322Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T13:03:41.616Z [info]: Transaction queued with ID: e11d0c45-8465-41e7-91e0-1a55bd3e5d43 and Job ID: 7
+2025-09-19T13:03:41.622Z [info]: Processing job 7 for queueId e11d0c45-8465-41e7-91e0-1a55bd3e5d43
+2025-09-19T13:03:41.672Z [error]: Error processing job 7 for queueId e11d0c45-8465-41e7-91e0-1a55bd3e5d43: Cannot read properties of null (reading 'selector')
+2025-09-19T13:04:15.469Z [info]: Postgres Connection Successful
+2025-09-19T13:04:15.631Z [info]: Workers started successfully
+2025-09-19T13:04:15.632Z [info]: Server running on port 4000
+2025-09-19T13:04:36.410Z [info]: Postgres Connection Successful
+2025-09-19T13:04:36.568Z [info]: Workers started successfully
+2025-09-19T13:04:36.569Z [info]: Server running on port 4000
+2025-09-19T13:04:44.029Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T13:04:44.224Z [info]: Transaction queued with ID: d5c2ca53-69df-4dd9-baa9-20f67b8d9c1a and Job ID: 8
+2025-09-19T13:04:44.232Z [info]: Processing job 8 for queueId d5c2ca53-69df-4dd9-baa9-20f67b8d9c1a
+2025-09-19T13:04:44.344Z [error]: Error processing job 8 for queueId d5c2ca53-69df-4dd9-baa9-20f67b8d9c1a: Cannot convert undefined or null to object
+2025-09-19T13:05:07.481Z [info]: Postgres Connection Successful
+2025-09-19T13:05:07.685Z [info]: Workers started successfully
+2025-09-19T13:05:07.687Z [info]: Server running on port 4000
+2025-09-19T13:05:08.008Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T13:05:08.199Z [info]: Transaction queued with ID: 5f2a2147-c98d-4cd4-8677-4be4f9fddc2c and Job ID: 9
+2025-09-19T13:05:08.214Z [info]: Processing job 9 for queueId 5f2a2147-c98d-4cd4-8677-4be4f9fddc2c
+2025-09-19T13:05:08.303Z [error]: Error processing job 9 for queueId 5f2a2147-c98d-4cd4-8677-4be4f9fddc2c: Cannot read properties of undefined (reading 'testReturns')
+2025-09-19T13:06:15.883Z [info]: Postgres Connection Successful
+2025-09-19T13:06:16.059Z [info]: Workers started successfully
+2025-09-19T13:06:16.060Z [info]: Server running on port 4000
+2025-09-19T13:06:30.318Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T13:06:31.102Z [info]: Transaction queued with ID: e4eef545-3e9e-4bf5-9f93-770e1a3e15ea and Job ID: 10
+2025-09-19T13:06:31.126Z [info]: Processing job 10 for queueId e4eef545-3e9e-4bf5-9f93-770e1a3e15ea
+2025-09-19T13:06:31.216Z [error]: Error processing job 10 for queueId e4eef545-3e9e-4bf5-9f93-770e1a3e15ea: Cannot read properties of undefined (reading 'testReturns')
+2025-09-19T13:17:56.294Z [info]: Postgres Connection Successful
+2025-09-19T13:17:56.486Z [info]: Workers started successfully
+2025-09-19T13:17:56.490Z [info]: Server running on port 4000
+2025-09-19T14:01:14.818Z [info]: Transaction sent: [object Object]
+2025-09-19T14:04:37.298Z [info]: Postgres Connection Successful
+2025-09-19T14:04:37.534Z [info]: Workers started successfully
+2025-09-19T14:04:37.535Z [info]: Server running on port 4000
+2025-09-19T14:04:47.973Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T14:04:48.753Z [info]: Transaction queued with ID: 8da1856e-9eaa-4ab4-80a6-f7e55f8070bb and Job ID: 11
+2025-09-19T14:04:48.775Z [info]: Processing job 11 for queueId 8da1856e-9eaa-4ab4-80a6-f7e55f8070bb
+2025-09-19T14:04:51.630Z [info]: Transaction sent: [object Object]
+2025-09-19T14:04:57.556Z [info]: Tx 0xf07a3c37412e9a5b0743864adc389d661ce9cb237fc393095918eff9f4d4b967 mined ✅
+2025-09-19T14:04:57.642Z [info]: Job 11 completed for queueId=8da1856e-9eaa-4ab4-80a6-f7e55f8070bb
+2025-09-19T14:06:27.370Z [info]: Postgres Connection Successful
+2025-09-19T14:06:27.509Z [info]: Workers started successfully
+2025-09-19T14:06:27.510Z [info]: Server running on port 4000
+2025-09-19T14:06:57.531Z [info]: Retrieving transaction status for queue ID: 8da1856e-9eaa-4ab4-80a6-f7e55f8070bb
+2025-09-19T14:06:58.553Z [error]: Error retrieving transaction status column "tx_hash" does not exist
+2025-09-19T14:07:15.688Z [info]: Postgres Connection Successful
+2025-09-19T14:07:15.895Z [info]: Workers started successfully
+2025-09-19T14:07:15.899Z [info]: Server running on port 4000
+2025-09-19T14:07:21.077Z [info]: Retrieving transaction status for queue ID: 8da1856e-9eaa-4ab4-80a6-f7e55f8070bb
+2025-09-19T14:07:21.158Z [info]: Transaction status retrieved for queue ID: 8da1856e-9eaa-4ab4-80a6-f7e55f8070bb
+2025-09-19T14:08:19.277Z [info]: Postgres Connection Successful
+2025-09-19T14:08:19.424Z [info]: Workers started successfully
+2025-09-19T14:08:19.426Z [info]: Server running on port 4000
+2025-09-19T14:08:51.921Z [info]: Postgres Connection Successful
+2025-09-19T14:08:52.067Z [info]: Workers started successfully
+2025-09-19T14:08:52.069Z [info]: Server running on port 4000
+2025-09-19T14:08:58.269Z [info]: Retrieving transaction status for queue ID: 8da1856e-9eaa-4ab4-80a6-f7e55f8070bb
+2025-09-19T14:08:58.368Z [info]: Transaction status retrieved for queue ID: 8da1856e-9eaa-4ab4-80a6-f7e55f8070bb
+2025-09-19T14:09:02.251Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T14:09:02.442Z [info]: Transaction queued with ID: 6cb5675e-8a2e-458f-8a6e-3e38fed5a345 and Job ID: 12
+2025-09-19T14:09:02.445Z [info]: Processing job 12 for queueId 6cb5675e-8a2e-458f-8a6e-3e38fed5a345
+2025-09-19T14:09:05.075Z [info]: Transaction sent: [object Object]
+2025-09-19T14:09:11.096Z [info]: Tx [object Object] mined ✅
+2025-09-19T14:09:11.182Z [info]: Job 12 completed for queueId=6cb5675e-8a2e-458f-8a6e-3e38fed5a345
+2025-09-19T14:09:27.169Z [info]: Postgres Connection Successful
+2025-09-19T14:09:27.393Z [info]: Workers started successfully
+2025-09-19T14:09:27.396Z [info]: Server running on port 4000
+2025-09-19T14:09:28.912Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T14:09:29.126Z [info]: Transaction queued with ID: 356b1df0-84fb-4e63-823d-96ddef21a923 and Job ID: 13
+2025-09-19T14:09:29.137Z [info]: Processing job 13 for queueId 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:09:31.529Z [info]: Transaction sent: [object Object]
+2025-09-19T14:09:37.650Z [info]: Tx {"_type":"TransactionReceipt","blockHash":"0x87ec0e04c3ebbe962cee4808fab7dd197e4b7fb8d4ddb57746fd947658597cfa","blockNumber":26616704,"contractAddress":null,"cumulativeGasUsed":"50920","from":"0x220bE055a8F7c982C7d21575A3F33cF3370be953","gasPrice":"104948000063","blobGasUsed":null,"blobGasPrice":null,"gasUsed":"29920","hash":"0xfe50f980fc7d9e03687c24fcdd04ef30ac354f6935b73a73da55efc0b59c16bd","index":1,"logs":[{"_type":"log","address":"0x7Ae020A9423d63315F2266d53bBE50ee4749e7Fb","blockHash":"0x87ec0e04c3ebbe962cee4808fab7dd197e4b7fb8d4ddb57746fd947658597cfa","blockNumber":26616704,"data":"0x00000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000b1000000000000000000000000220be055a8f7c982c7d21575a3f33cf3370be9530000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000a74657374537472696e6700000000000000000000000000000000000000000000","index":2,"topics":["0xccded0add3b0cda54b78ad8ccefddcc1ed8c3d96f3e54ff81d853e42aab7153d"],"transactionHash":"0xfe50f980fc7d9e03687c24fcdd04ef30ac354f6935b73a73da55efc0b59c16bd","transactionIndex":1},{"_type":"log","address":"0x0000000000000000000000000000000000001010","blockHash":"0x87ec0e04c3ebbe962cee4808fab7dd197e4b7fb8d4ddb57746fd947658597cfa","blockNumber":26616704,"data":"0x000000000000000000000000000000000000000000000000000b27da80bc6000000000000000000000000000000000000000000000000000a97b3c05b63016220000000000000000000000000000000000000000000001803353bf01aecea28b000000000000000000000000000000000000000000000000a970142b3573b622000000000000000000000000000000000000000000000180335ee6dc2f8b028b","index":3,"topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x000000000000000000000000220be055a8f7c982c7d21575a3f33cf3370be953","0x0000000000000000000000007ee41d8a25641000661b1ef5e6ae8a00400466b0"],"transactionHash":"0xfe50f980fc7d9e03687c24fcdd04ef30ac354f6935b73a73da55efc0b59c16bd","transactionIndex":1}],"logsBloom":"0x00000000000000000000002000000080000000000000000000000000000000000000000000000000000000000000000000008000000000000000000000000020000000000000000000000000000000800000000000000000010100000000000000000000000000000000000000000000000000000000000080000000010000000000000000000000020000000400000000000000000000000000000000000000200000000000000020000000000000000000000000000000000000000000004000000000001000000001000000000000000000400000000000100000000000000000000000000000000000010000000000000000000000000000000000500000","status":1,"to":"0x7Ae020A9423d63315F2266d53bBE50ee4749e7Fb"} mined ✅
+2025-09-19T14:09:37.755Z [info]: Job 13 completed for queueId=356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:10:43.692Z [info]: Postgres Connection Successful
+2025-09-19T14:10:43.934Z [info]: Workers started successfully
+2025-09-19T14:10:43.938Z [info]: Server running on port 4000
+2025-09-19T14:11:12.287Z [info]: Postgres Connection Successful
+2025-09-19T14:11:12.524Z [info]: Workers started successfully
+2025-09-19T14:11:12.527Z [info]: Server running on port 4000
+2025-09-19T14:11:15.814Z [info]: Postgres Connection Successful
+2025-09-19T14:11:15.956Z [info]: Workers started successfully
+2025-09-19T14:11:15.958Z [info]: Server running on port 4000
+2025-09-19T14:11:26.928Z [info]: Retrieving transaction status for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:11:27.671Z [info]: Transaction status retrieved for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:12:18.746Z [info]: Postgres Connection Successful
+2025-09-19T14:12:18.914Z [info]: Workers started successfully
+2025-09-19T14:12:18.916Z [info]: Server running on port 4000
+2025-09-19T14:12:19.895Z [info]: Retrieving transaction status for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:12:19.978Z [info]: Transaction status retrieved for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:12:21.276Z [info]: Retrieving transaction status for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:12:21.356Z [info]: Transaction status retrieved for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:12:31.341Z [info]: Postgres Connection Successful
+2025-09-19T14:12:31.490Z [info]: Workers started successfully
+2025-09-19T14:12:31.491Z [info]: Server running on port 4000
+2025-09-19T14:12:32.158Z [info]: Retrieving transaction status for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:12:32.242Z [info]: Transaction status retrieved for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:12:33.325Z [info]: Retrieving transaction status for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:12:33.412Z [info]: Transaction status retrieved for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:13:14.927Z [info]: Postgres Connection Successful
+2025-09-19T14:13:15.090Z [info]: Workers started successfully
+2025-09-19T14:13:15.092Z [info]: Server running on port 4000
+2025-09-19T14:13:16.029Z [info]: Retrieving transaction status for queue ID: 356b1df0-84fb-4e63-823d-96ddef21a923
+2025-09-19T14:13:16.130Z [info]: Transaction status retrieved for queue ID: {"status":"mined","transaction_hash":null}
+2025-09-19T14:14:40.511Z [info]: Postgres Connection Successful
+2025-09-19T14:14:40.663Z [info]: Workers started successfully
+2025-09-19T14:14:40.664Z [info]: Server running on port 4000
+2025-09-19T14:14:50.548Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T14:14:50.745Z [info]: Transaction queued with ID: 4be2d7c9-0d71-4940-ab9b-b7f789ee81b4 and Job ID: 14
+2025-09-19T14:14:50.752Z [info]: Processing job 14 for queueId 4be2d7c9-0d71-4940-ab9b-b7f789ee81b4
+2025-09-19T14:14:53.640Z [info]: Transaction sent: {"_type":"TransactionResponse","accessList":[],"blockNumber":null,"blockHash":null,"blobVersionedHashes":null,"chainId":"80002","data":"0x1a483b8c","from":"0x220bE055a8F7c982C7d21575A3F33cF3370be953","gasLimit":"30270","gasPrice":null,"hash":"0xfc597cd40fc189c1e71a439eb67c5c54e84ce1166d1720e1852ed76eadaed7d0","maxFeePerGas":"45000000126","maxPriorityFeePerGas":"45000000000","maxFeePerBlobGas":null,"nonce":16,"signature":{"_type":"signature","networkV":null,"r":"0x587a443c8ba10cb9926ad4a275c3750dcb389372b0e3fd9f9df0c044bdf986d5","s":"0x1aeb63fb7e491a0abbb382c577014ddafaed7a7452ddcafe81a908d3090a1c71","v":28},"to":"0x7Ae020A9423d63315F2266d53bBE50ee4749e7Fb","type":2,"value":"0"}
+2025-09-19T14:14:59.552Z [info]: Tx 0xfc597cd40fc189c1e71a439eb67c5c54e84ce1166d1720e1852ed76eadaed7d0 mined 
+2025-09-19T14:14:59.659Z [info]: Job 14 completed for queueId=4be2d7c9-0d71-4940-ab9b-b7f789ee81b4
+2025-09-19T14:15:51.556Z [info]: Postgres Connection Successful
+2025-09-19T14:15:51.690Z [info]: Workers started successfully
+2025-09-19T14:15:51.691Z [info]: Server running on port 4000
+2025-09-19T14:15:54.828Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T14:15:55.295Z [info]: Transaction queued with ID: ac5ad94f-0a4e-4425-ae40-9c9c862716bd and Job ID: 15
+2025-09-19T14:15:55.301Z [info]: Processing job 15 for queueId ac5ad94f-0a4e-4425-ae40-9c9c862716bd
+2025-09-19T14:15:57.299Z [info]: Transaction sent: "0x31fe9c89670d59d5b8ac3771d70804a3ea790fe9e8434773c3dffe2fcfacaf45"
+2025-09-19T14:16:03.170Z [info]: Tx 0x31fe9c89670d59d5b8ac3771d70804a3ea790fe9e8434773c3dffe2fcfacaf45 mined 
+2025-09-19T14:16:03.256Z [info]: Job 15 completed for queueId=ac5ad94f-0a4e-4425-ae40-9c9c862716bd
+2025-09-19T14:16:19.274Z [info]: Retrieving transaction status for queue ID: ac5ad94f-0a4e-4425-ae40-9c9c862716bd
+2025-09-19T14:16:19.948Z [info]: Transaction status retrieved for queue ID: {"status":"mined","transaction_hash":"0x31fe9c89670d59d5b8ac3771d70804a3ea790fe9e8434773c3dffe2fcfacaf45"}
+2025-09-19T14:16:33.911Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-19T14:16:34.628Z [info]: Transaction queued with ID: 2947dc31-4afb-4f43-b2a0-de12e8527376 and Job ID: 16
+2025-09-19T14:16:34.631Z [info]: Processing job 16 for queueId 2947dc31-4afb-4f43-b2a0-de12e8527376
+2025-09-19T14:16:36.526Z [info]: Transaction sent: "0x8171a9e5459cef3208eaa09bef52c21497761321b32922f48be90c4ae7cd5b89"
+2025-09-19T14:16:42.482Z [info]: Tx 0x8171a9e5459cef3208eaa09bef52c21497761321b32922f48be90c4ae7cd5b89 mined 
+2025-09-19T14:16:42.572Z [info]: Job 16 completed for queueId=2947dc31-4afb-4f43-b2a0-de12e8527376

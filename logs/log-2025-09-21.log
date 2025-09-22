@@ -1,0 +1,852 @@
+2025-09-21T13:46:57.711Z [info]: Transaction sent: [object Object]
+2025-09-21T13:47:09.595Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.597Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.600Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.601Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.610Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.611Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.633Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.633Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.690Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.692Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.843Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:09.844Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.251Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.252Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.606Z [info]: Postgres Connection Successful
+2025-09-21T13:47:10.875Z [info]: Workers started successfully
+2025-09-21T13:47:10.876Z [info]: Server running on port 4000
+2025-09-21T13:47:10.877Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.877Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.879Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.880Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.889Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.890Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.911Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.912Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.969Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T13:47:10.971Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.145Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.148Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.153Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.154Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.163Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.165Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.189Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.190Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.248Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.250Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.401Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.402Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.808Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.809Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:43.928Z [info]: Postgres Connection Successful
+2025-09-21T15:09:44.076Z [info]: Workers started successfully
+2025-09-21T15:09:44.078Z [info]: Server running on port 4000
+2025-09-21T15:09:44.080Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.081Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.084Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.085Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.094Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.095Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.117Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.118Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.176Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.180Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.331Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.332Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.737Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.739Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.909Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:44.910Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T15:09:58.818Z [info]: Postgres Connection Successful
+2025-09-21T15:09:59.069Z [info]: Workers started successfully
+2025-09-21T15:09:59.073Z [info]: Server running on port 4000
+2025-09-21T15:10:03.177Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T15:10:03.512Z [info]: Transaction queued with ID: bd722ba0-22f8-4647-8b4f-ce24eae61e26 and Job ID: 17
+2025-09-21T15:10:03.523Z [info]: Processing job 17 for queueId bd722ba0-22f8-4647-8b4f-ce24eae61e26
+2025-09-21T15:10:03.623Z [error]: Error processing job 17 for queueId bd722ba0-22f8-4647-8b4f-ce24eae61e26: contract is not defined
+2025-09-21T15:10:03.726Z [error]: Job 17 failed for queueId=bd722ba0-22f8-4647-8b4f-ce24eae61e26 contract is not defined
+2025-09-21T15:10:30.053Z [info]: Postgres Connection Successful
+2025-09-21T15:10:30.287Z [info]: Workers started successfully
+2025-09-21T15:10:30.291Z [info]: Server running on port 4000
+2025-09-21T15:10:30.309Z [info]: Processing job 16 for queueId 2947dc31-4afb-4f43-b2a0-de12e8527376
+2025-09-21T15:10:32.395Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T15:10:32.606Z [info]: Transaction queued with ID: 2ae20702-564a-4fa1-982b-f30c9169fa00 and Job ID: 18
+2025-09-21T15:10:33.173Z [info]: Transaction sent: "0x2357b59e55d700072436fea99c6c92480162e09767ccdd03c1c6653de0ff5463"
+2025-09-21T15:11:17.887Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T15:11:19.851Z [info]: Transaction queued with ID: 95c1a616-66b8-40a2-bd68-6f41db92d3d0 and Job ID: 19
+2025-09-21T15:21:03.308Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T15:21:04.503Z [info]: Transaction queued with ID: 4cc4bb19-07c2-428d-8d25-e0ea47b1737a and Job ID: 20
+2025-09-21T15:24:35.085Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T15:24:35.984Z [info]: Transaction queued with ID: f573117a-9039-4a31-8d65-c7cfad437d14 and Job ID: 21
+2025-09-21T15:47:00.350Z [error]: Job 16 failed for queueId=2947dc31-4afb-4f43-b2a0-de12e8527376 job stalled more than allowable limit
+2025-09-21T15:47:51.004Z [info]: Postgres Connection Successful
+2025-09-21T15:47:51.204Z [info]: Workers started successfully
+2025-09-21T15:47:51.205Z [info]: Server running on port 4000
+2025-09-21T15:47:51.215Z [info]: Processing job 18 for queueId 2ae20702-564a-4fa1-982b-f30c9169fa00
+2025-09-21T15:47:53.480Z [info]: Transaction sent: "0xe52d8b83820a072373a66d2407eadee60d99bc340d829c4e6b2550095a71d926"
+2025-09-21T15:48:34.203Z [info]: Postgres Connection Successful
+2025-09-21T15:48:34.427Z [info]: Workers started successfully
+2025-09-21T15:48:34.428Z [info]: Server running on port 4000
+2025-09-21T15:48:34.435Z [info]: Processing job 19 for queueId 95c1a616-66b8-40a2-bd68-6f41db92d3d0
+2025-09-21T15:48:36.646Z [info]: Transaction sent: "0xc12a3087e6c0a3513cd6438428b986b7c8b0ceb10d96541323633086da48dd94"
+2025-09-21T15:49:01.653Z [info]: Retrieving transaction status for queue ID: 95c1a616-66b8-40a2-bd68-6f41db92d3d0
+2025-09-21T15:49:02.619Z [info]: Transaction status retrieved for queue ID: {"status":"sent","transaction_hash":"0xc12a3087e6c0a3513cd6438428b986b7c8b0ceb10d96541323633086da48dd94"}
+2025-09-21T15:54:19.399Z [info]: Transaction sent: [object Object]
+2025-09-21T15:55:03.638Z [info]: Transaction sent: 0x0b52ffe69ed49e62f2c69af12051afe17b73c642c171527d3c237be15e1f841e
+2025-09-21T15:55:09.063Z [info]: Tx 0x0b52ffe69ed49e62f2c69af12051afe17b73c642c171527d3c237be15e1f841e mined 
+2025-09-21T15:57:09.923Z [info]: Transaction sent: 0x02604044ef86c8c55baff3f99749ca60854450ad9ae729c7cbf8f5b00141e651
+2025-09-21T15:57:25.998Z [info]: Transaction sent: 0x64c2b925e199c065962abfda719f5a3add7ef4fc610fda1aa720b84d2739abce
+2025-09-21T16:02:44.040Z [info]: Postgres Connection Successful
+2025-09-21T16:02:44.232Z [info]: Workers started successfully
+2025-09-21T16:02:44.233Z [info]: Server running on port 4000
+2025-09-21T16:02:44.253Z [info]: Processing job 18 for queueId 2ae20702-564a-4fa1-982b-f30c9169fa00
+2025-09-21T16:02:46.830Z [info]: Transaction sent: "0x1c21b4cf02bf6dbab8bd4daec2fd23738cca32449fe1b3c2ec6c5ce726f248e0"
+2025-09-21T16:02:48.979Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T16:02:49.323Z [info]: Transaction queued with ID: 1ef7aa15-d219-43f9-998d-c8908655c230 and Job ID: 22
+2025-09-21T16:02:52.292Z [info]: Tx 0x1c21b4cf02bf6dbab8bd4daec2fd23738cca32449fe1b3c2ec6c5ce726f248e0 mined 
+2025-09-21T16:02:52.520Z [info]: Job 18 completed for queueId=2ae20702-564a-4fa1-982b-f30c9169fa00
+2025-09-21T16:02:52.521Z [info]: Processing job 20 for queueId 4cc4bb19-07c2-428d-8d25-e0ea47b1737a
+2025-09-21T16:02:54.694Z [info]: Transaction sent: "0x1246271069b1021608ddb3823c3daddf5b201896cf4d8b917493a2b54ca7854a"
+2025-09-21T16:03:00.594Z [info]: Tx 0x1246271069b1021608ddb3823c3daddf5b201896cf4d8b917493a2b54ca7854a mined 
+2025-09-21T16:03:00.935Z [info]: Job 20 completed for queueId=4cc4bb19-07c2-428d-8d25-e0ea47b1737a
+2025-09-21T16:03:00.937Z [info]: Processing job 21 for queueId f573117a-9039-4a31-8d65-c7cfad437d14
+2025-09-21T16:03:04.034Z [info]: Transaction sent: "0xac5e426eb523928b9ecd6efe95ccd6ff08bb9a92f13e9d397fe6458931cd22c5"
+2025-09-21T16:03:10.123Z [info]: Tx 0xac5e426eb523928b9ecd6efe95ccd6ff08bb9a92f13e9d397fe6458931cd22c5 mined 
+2025-09-21T16:03:10.439Z [info]: Job 21 completed for queueId=f573117a-9039-4a31-8d65-c7cfad437d14
+2025-09-21T16:03:10.440Z [info]: Processing job 22 for queueId 1ef7aa15-d219-43f9-998d-c8908655c230
+2025-09-21T16:03:13.308Z [info]: Transaction sent: "0x855001e4cf2e5e13af313ac24871dd99023c809dc4b54670990be5cef45dccbf"
+2025-09-21T16:03:14.893Z [info]: Tx 0x855001e4cf2e5e13af313ac24871dd99023c809dc4b54670990be5cef45dccbf mined 
+2025-09-21T16:03:15.115Z [info]: Job 22 completed for queueId=1ef7aa15-d219-43f9-998d-c8908655c230
+2025-09-21T16:03:15.117Z [info]: Processing job 19 for queueId 95c1a616-66b8-40a2-bd68-6f41db92d3d0
+2025-09-21T16:03:17.531Z [info]: Transaction sent: "0x2f4f130ecd0df7aa0e85421b71a21497d68266e2a237a1c183eb6416971cd270"
+2025-09-21T16:03:18.263Z [info]: Tx 0x2f4f130ecd0df7aa0e85421b71a21497d68266e2a237a1c183eb6416971cd270 mined 
+2025-09-21T16:03:18.505Z [info]: Job 19 completed for queueId=95c1a616-66b8-40a2-bd68-6f41db92d3d0
+2025-09-21T16:03:25.656Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T16:03:26.030Z [info]: Transaction queued with ID: b16ae808-8db7-4f7c-8bbc-1d4a1eece526 and Job ID: 23
+2025-09-21T16:03:26.033Z [info]: Processing job 23 for queueId b16ae808-8db7-4f7c-8bbc-1d4a1eece526
+2025-09-21T16:03:28.052Z [info]: Transaction sent: "0x538dd2025e1f9fffa3549f27913e67687884a58a6c2b50af74aa5241ad8386e0"
+2025-09-21T16:03:30.450Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T16:03:30.924Z [info]: Transaction queued with ID: c24188e9-8a20-4a0c-8bed-d0c364df38bd and Job ID: 24
+2025-09-21T16:03:33.669Z [info]: Tx 0x538dd2025e1f9fffa3549f27913e67687884a58a6c2b50af74aa5241ad8386e0 mined 
+2025-09-21T16:03:34.008Z [info]: Job 23 completed for queueId=b16ae808-8db7-4f7c-8bbc-1d4a1eece526
+2025-09-21T16:03:34.009Z [info]: Processing job 24 for queueId c24188e9-8a20-4a0c-8bed-d0c364df38bd
+2025-09-21T16:03:36.205Z [info]: Transaction sent: "0x1e81314b4c985805d87be68317a84b69cdd26290b362ce9653d13320f48840f4"
+2025-09-21T16:03:42.319Z [info]: Tx 0x1e81314b4c985805d87be68317a84b69cdd26290b362ce9653d13320f48840f4 mined 
+2025-09-21T16:03:42.558Z [info]: Job 24 completed for queueId=c24188e9-8a20-4a0c-8bed-d0c364df38bd
+2025-09-21T16:04:12.566Z [info]: Received transaction request: function Set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T16:04:14.526Z [info]: Transaction queued with ID: 762e717a-e0df-4faf-ae82-358abf898ee8 and Job ID: 25
+2025-09-21T16:04:14.528Z [info]: Processing job 25 for queueId 762e717a-e0df-4faf-ae82-358abf898ee8
+2025-09-21T16:04:15.374Z [error]: Error processing job 25 for queueId 762e717a-e0df-4faf-ae82-358abf898ee8: execution reverted (no data present; likely require(false) occurred (action="estimateGas", data="0x", reason="require(false)", transaction={ "data": "0xdf7a95ae0000000000000000000000000000000000000000000000000000000000000037", "from": "0x220bE055a8F7c982C7d21575A3F33cF3370be953", "to": "0x7Ae020A9423d63315F2266d53bBE50ee4749e7Fb" }, invocation=null, revert=null, code=CALL_EXCEPTION, version=6.15.0)
+2025-09-21T16:04:15.596Z [error]: Job 25 failed for queueId=762e717a-e0df-4faf-ae82-358abf898ee8 execution reverted (no data present; likely require(false) occurred (action="estimateGas", data="0x", reason="require(false)", transaction={ "data": "0xdf7a95ae0000000000000000000000000000000000000000000000000000000000000037", "from": "0x220bE055a8F7c982C7d21575A3F33cF3370be953", "to": "0x7Ae020A9423d63315F2266d53bBE50ee4749e7Fb" }, invocation=null, revert=null, code=CALL_EXCEPTION, version=6.15.0)
+2025-09-21T16:05:21.326Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T16:05:22.303Z [info]: Transaction queued with ID: 13bee357-020f-4018-b9cb-5a03be899aee and Job ID: 26
+2025-09-21T16:05:22.306Z [info]: Processing job 26 for queueId 13bee357-020f-4018-b9cb-5a03be899aee
+2025-09-21T16:05:29.944Z [info]: Transaction sent: "0x76949170cb8442a8f7fd9a2035f4485544493ecb27adb49398928c9a488a80c8"
+2025-09-21T16:05:35.666Z [info]: Tx 0x76949170cb8442a8f7fd9a2035f4485544493ecb27adb49398928c9a488a80c8 mined 
+2025-09-21T16:05:35.773Z [info]: Job 26 completed for queueId=13bee357-020f-4018-b9cb-5a03be899aee
+2025-09-21T17:08:50.127Z [info]: Postgres Connection Successful
+2025-09-21T17:08:50.266Z [info]: Workers started successfully
+2025-09-21T17:08:50.267Z [info]: Server running on port 4000
+2025-09-21T17:08:55.706Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:08:55.894Z [info]: Transaction queued with ID: 0bf85190-43a0-4d90-9eb1-2da7612a3403 and Job ID: 27
+2025-09-21T17:08:55.898Z [info]: Processing job 27 for queueId 0bf85190-43a0-4d90-9eb1-2da7612a3403
+2025-09-21T17:08:58.634Z [info]: Transaction sent: "0x56beb84e59dca3ae66844cdf565a518be60538d2c980a51546d36d53be2c4161"
+2025-09-21T17:09:04.463Z [info]: Tx 0x56beb84e59dca3ae66844cdf565a518be60538d2c980a51546d36d53be2c4161 mined 
+2025-09-21T17:09:04.554Z [info]: Job 27 completed for queueId=0bf85190-43a0-4d90-9eb1-2da7612a3403
+2025-09-21T17:09:29.042Z [info]: Postgres Connection Successful
+2025-09-21T17:09:29.187Z [info]: Workers started successfully
+2025-09-21T17:09:29.188Z [info]: Server running on port 4000
+2025-09-21T17:20:24.333Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:20:25.168Z [info]: Transaction queued with ID: f6bc2ae6-1d67-472e-8096-21fc4d9ce841 and Job ID: 28
+2025-09-21T17:20:25.173Z [info]: Processing job 28 for queueId f6bc2ae6-1d67-472e-8096-21fc4d9ce841
+2025-09-21T17:20:28.340Z [info]: Transaction sent: "0xf2a3d526f68f027683f3db9a8551211eb6705c196884aa99c0984061fdde7af2"
+2025-09-21T17:20:29.254Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:20:29.458Z [info]: Transaction queued with ID: d84a3623-348b-4993-885a-c955c5ab9bde and Job ID: 29
+2025-09-21T17:20:32.008Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:20:32.309Z [info]: Transaction queued with ID: a9998b9a-ebdb-469d-b800-03d22d393c02 and Job ID: 30
+2025-09-21T17:20:34.104Z [info]: Transaction mined 0xf2a3d526f68f027683f3db9a8551211eb6705c196884aa99c0984061fdde7af2  
+2025-09-21T17:20:34.262Z [info]: Job 28 completed for queueId=f6bc2ae6-1d67-472e-8096-21fc4d9ce841
+2025-09-21T17:20:34.263Z [info]: Processing job 29 for queueId d84a3623-348b-4993-885a-c955c5ab9bde
+2025-09-21T17:20:34.792Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:20:35.319Z [info]: Transaction queued with ID: 1afa6034-dfcd-4762-8ae3-853e9e0b8ccb and Job ID: 31
+2025-09-21T17:20:36.297Z [info]: Transaction sent: "0x74ae9fd3ebc44ca9c3d8cba7da11e30a619791b21ce37617c6f184db90701587"
+2025-09-21T17:20:42.955Z [info]: Transaction mined 0x74ae9fd3ebc44ca9c3d8cba7da11e30a619791b21ce37617c6f184db90701587  
+2025-09-21T17:20:43.056Z [info]: Job 29 completed for queueId=d84a3623-348b-4993-885a-c955c5ab9bde
+2025-09-21T17:20:43.056Z [info]: Processing job 30 for queueId a9998b9a-ebdb-469d-b800-03d22d393c02
+2025-09-21T17:20:45.521Z [info]: Transaction sent: "0xff2d5bd5d3ed75df6f5f680b4ada252183cfe794717ef4d7f472facdc76ceeeb"
+2025-09-21T17:20:46.014Z [info]: Transaction mined 0xff2d5bd5d3ed75df6f5f680b4ada252183cfe794717ef4d7f472facdc76ceeeb  
+2025-09-21T17:20:46.134Z [info]: Job 30 completed for queueId=a9998b9a-ebdb-469d-b800-03d22d393c02
+2025-09-21T17:20:46.134Z [info]: Processing job 31 for queueId 1afa6034-dfcd-4762-8ae3-853e9e0b8ccb
+2025-09-21T17:20:49.205Z [info]: Transaction sent: "0x706907e78abc7d232ab78c82690e4fa4dde01e86e4e01087ec32250a8c08f7a2"
+2025-09-21T17:20:54.701Z [info]: Transaction mined 0x706907e78abc7d232ab78c82690e4fa4dde01e86e4e01087ec32250a8c08f7a2  
+2025-09-21T17:20:54.807Z [info]: Job 31 completed for queueId=1afa6034-dfcd-4762-8ae3-853e9e0b8ccb
+2025-09-21T17:23:27.951Z [info]: Postgres Connection Successful
+2025-09-21T17:23:28.203Z [info]: Workers started successfully
+2025-09-21T17:23:28.204Z [info]: Server running on port 4000
+2025-09-21T17:23:33.737Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:23:34.861Z [info]: Transaction queued with ID: 96f31370-1a75-4002-ba91-8ec900fd3c23 and Job ID: 32
+2025-09-21T17:23:34.866Z [info]: Processing job 32 for queueId 96f31370-1a75-4002-ba91-8ec900fd3c23
+2025-09-21T17:23:42.199Z [info]: Transaction sent: "0x491c6f1bf977a05bce37dad432f4b6d3e1fd308f02cc7f97c8684366c31bea90"
+2025-09-21T17:23:48.286Z [info]: Transaction mined 0x491c6f1bf977a05bce37dad432f4b6d3e1fd308f02cc7f97c8684366c31bea90  
+2025-09-21T17:23:48.518Z [info]: Job 32 completed for queueId=96f31370-1a75-4002-ba91-8ec900fd3c23
+2025-09-21T17:38:42.036Z [info]: Postgres Connection Successful
+2025-09-21T17:38:42.169Z [info]: Workers started successfully
+2025-09-21T17:38:42.171Z [info]: Server running on port 4000
+2025-09-21T17:38:46.613Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:38:46.782Z [info]: Transaction queued with ID: b631ea8c-b221-422f-8ef5-0e67bc3b34e2 and Job ID: 33
+2025-09-21T17:38:46.798Z [info]: Processing job 33 for queueId b631ea8c-b221-422f-8ef5-0e67bc3b34e2
+2025-09-21T17:38:48.326Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:38:48.487Z [info]: Transaction queued with ID: d936f2c0-b21d-4b42-bd65-e5e4751fdc8f and Job ID: 34
+2025-09-21T17:38:49.436Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:38:49.596Z [info]: Transaction queued with ID: 14d92c05-25d4-45f6-906c-e2729e70a1a0 and Job ID: 35
+2025-09-21T17:38:50.519Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:38:50.726Z [info]: Transaction queued with ID: 19b7e8bc-6425-42be-be19-7a36f4f2687f and Job ID: 36
+2025-09-21T17:38:51.204Z [info]: Transaction sent: "0xcf95c27a79cd8f32334d9f166a04c2beea52eab9ff20dfcf2c1517d92282aa8a"
+2025-09-21T17:38:51.527Z [info]: Received transaction request: function set(uint256) on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:38:51.691Z [info]: Transaction queued with ID: 8ba487f9-c816-49e1-abfe-9bf070b470f1 and Job ID: 37
+2025-09-21T17:38:57.124Z [info]: Transaction mined 0xcf95c27a79cd8f32334d9f166a04c2beea52eab9ff20dfcf2c1517d92282aa8a  
+2025-09-21T17:38:57.205Z [info]: Job 33 completed for queueId=b631ea8c-b221-422f-8ef5-0e67bc3b34e2
+2025-09-21T17:38:57.206Z [info]: Processing job 34 for queueId d936f2c0-b21d-4b42-bd65-e5e4751fdc8f
+2025-09-21T17:38:59.455Z [info]: Transaction sent: "0x856ac7268d9fcd15c5e8155071572d7a4bfb00fe45f362f37ca4718091c3f226"
+2025-09-21T17:38:59.937Z [info]: Transaction mined 0x856ac7268d9fcd15c5e8155071572d7a4bfb00fe45f362f37ca4718091c3f226  
+2025-09-21T17:39:00.021Z [info]: Job 34 completed for queueId=d936f2c0-b21d-4b42-bd65-e5e4751fdc8f
+2025-09-21T17:39:00.021Z [info]: Processing job 35 for queueId 14d92c05-25d4-45f6-906c-e2729e70a1a0
+2025-09-21T17:39:02.122Z [info]: Transaction sent: "0x8ba03adee3ad66a5c483771c7bd996c2ce31b0189517f84ccf34bbf2e2bd1f94"
+2025-09-21T17:39:08.486Z [info]: Transaction mined 0x8ba03adee3ad66a5c483771c7bd996c2ce31b0189517f84ccf34bbf2e2bd1f94  
+2025-09-21T17:39:08.566Z [info]: Job 35 completed for queueId=14d92c05-25d4-45f6-906c-e2729e70a1a0
+2025-09-21T17:39:08.566Z [info]: Processing job 36 for queueId 19b7e8bc-6425-42be-be19-7a36f4f2687f
+2025-09-21T17:39:10.529Z [info]: Transaction sent: "0xf32934bb756c588f920e35103a23c7fbe238d446553b8606ea2dfae260767780"
+2025-09-21T17:39:16.454Z [info]: Transaction mined 0xf32934bb756c588f920e35103a23c7fbe238d446553b8606ea2dfae260767780  
+2025-09-21T17:39:16.534Z [info]: Job 36 completed for queueId=19b7e8bc-6425-42be-be19-7a36f4f2687f
+2025-09-21T17:39:16.534Z [info]: Processing job 37 for queueId 8ba487f9-c816-49e1-abfe-9bf070b470f1
+2025-09-21T17:39:18.945Z [info]: Transaction sent: "0x5c4e49f87e2e8bf900477104fa2ae9a8bd2c195c3b35c19007e1a1bd615c1ee4"
+2025-09-21T17:39:24.953Z [info]: Transaction mined 0x5c4e49f87e2e8bf900477104fa2ae9a8bd2c195c3b35c19007e1a1bd615c1ee4  
+2025-09-21T17:39:25.033Z [info]: Job 37 completed for queueId=8ba487f9-c816-49e1-abfe-9bf070b470f1
+2025-09-21T17:45:30.726Z [info]: Postgres Connection Successful
+2025-09-21T17:45:30.876Z [info]: Workers started successfully
+2025-09-21T17:45:30.877Z [info]: Server running on port 4000
+2025-09-21T17:45:33.272Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.274Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.275Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.275Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.276Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.277Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.277Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.278Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.279Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.279Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.280Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.281Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.281Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.281Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.282Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.282Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.282Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.283Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.283Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.284Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.284Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.284Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.284Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.285Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.285Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.285Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.285Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.286Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.286Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.286Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.286Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.287Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.287Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.287Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.287Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.288Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.288Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.288Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.288Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.288Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.289Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.289Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.289Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.289Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.292Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.292Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.292Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.293Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.293Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.293Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.293Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.294Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.294Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.294Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.294Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.294Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.295Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.295Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.295Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.296Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.296Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.296Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.296Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.296Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.297Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.297Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.297Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.297Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.297Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.298Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.298Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.298Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.298Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.298Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.299Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.299Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.299Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.299Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.299Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.300Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.300Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.300Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.300Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.300Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.301Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.301Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.301Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.301Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.301Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.302Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.302Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.302Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.302Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.302Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.303Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.303Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.303Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.303Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.303Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:33.304Z [info]: Received transaction request: function testReturns() on 0x7ae020a9423d63315f2266d53bbe50ee4749e7fb for chain 80002
+2025-09-21T17:45:35.034Z [info]: Transaction queued with ID: d8a8a9d3-3d63-4228-b198-cf3ea01f6c6b and Job ID: 38
+2025-09-21T17:45:35.039Z [info]: Transaction queued with ID: 9876eac9-5982-40fd-8807-e87f99a731a3 and Job ID: 39
+2025-09-21T17:45:35.039Z [info]: Transaction queued with ID: 93e2feca-025f-4c73-ac46-01385f2e89e5 and Job ID: 40
+2025-09-21T17:45:35.042Z [info]: Transaction queued with ID: 7d18ad7d-988f-412b-b3b5-33a65e7823d0 and Job ID: 41
+2025-09-21T17:45:35.044Z [info]: Processing job 38 for queueId d8a8a9d3-3d63-4228-b198-cf3ea01f6c6b
+2025-09-21T17:45:35.094Z [info]: Transaction queued with ID: c1d54193-8f69-4b8d-b080-237500f9fa97 and Job ID: 42
+2025-09-21T17:45:35.095Z [info]: Transaction queued with ID: 9d0cb32b-d9da-4da8-823c-5f9939019445 and Job ID: 43
+2025-09-21T17:45:35.096Z [info]: Transaction queued with ID: b04533eb-3630-4c91-b017-14a1e7f599e5 and Job ID: 44
+2025-09-21T17:45:35.096Z [info]: Transaction queued with ID: dbe32f0f-b1f5-4fb6-92e6-7126144e83ba and Job ID: 45
+2025-09-21T17:45:35.102Z [info]: Transaction queued with ID: c0e005e0-fb75-46d6-afab-ad1f91c01a34 and Job ID: 46
+2025-09-21T17:45:35.113Z [info]: Transaction queued with ID: 583a8bff-36d5-4a1a-be6f-483fc382b478 and Job ID: 47
+2025-09-21T17:45:35.127Z [info]: Transaction queued with ID: 401dd686-6081-4e12-98ce-0a20a6945fd3 and Job ID: 48
+2025-09-21T17:45:35.128Z [info]: Transaction queued with ID: 9f1e8d1f-5827-4790-b306-b297270e024f and Job ID: 49
+2025-09-21T17:45:35.128Z [info]: Transaction queued with ID: 01253856-b4e7-4cb2-a3f1-e3128cb2eaf3 and Job ID: 50
+2025-09-21T17:45:35.135Z [info]: Transaction queued with ID: 790f9bb0-5d3a-4b4d-9d1f-a756074de988 and Job ID: 51
+2025-09-21T17:45:35.177Z [info]: Transaction queued with ID: 44147438-e7e0-401d-a179-3315512c6d7a and Job ID: 52
+2025-09-21T17:45:35.178Z [info]: Transaction queued with ID: 8558a689-9a1d-4494-af39-d15189632853 and Job ID: 53
+2025-09-21T17:45:35.179Z [info]: Transaction queued with ID: f3916cb5-8126-4c37-830d-531fe6405f3e and Job ID: 54
+2025-09-21T17:45:35.180Z [info]: Transaction queued with ID: 35fadf45-c932-4f24-b201-8bb31fb07b61 and Job ID: 55
+2025-09-21T17:45:35.187Z [info]: Transaction queued with ID: 6110caa8-5f27-4498-a1ae-4ac405f8b9d5 and Job ID: 56
+2025-09-21T17:45:35.203Z [info]: Transaction queued with ID: fbc27617-66d7-41d2-8b18-ee538f90ba5c and Job ID: 57
+2025-09-21T17:45:35.219Z [info]: Transaction queued with ID: d0a98f62-0792-4be1-9dfc-0af3fa52a223 and Job ID: 58
+2025-09-21T17:45:35.219Z [info]: Transaction queued with ID: 1fc4efbd-98d6-4c73-9551-8ace9f88bec4 and Job ID: 59
+2025-09-21T17:45:35.239Z [info]: Transaction queued with ID: 6e792722-4707-4650-8eae-14ea13ea5322 and Job ID: 60
+2025-09-21T17:45:35.260Z [info]: Transaction queued with ID: 7fa49f81-2376-4888-9af3-32b2bd722fa4 and Job ID: 61
+2025-09-21T17:45:35.262Z [info]: Transaction queued with ID: 5695bb6d-4328-4afa-b236-0c192244d648 and Job ID: 62
+2025-09-21T17:45:35.263Z [info]: Transaction queued with ID: a1e61fde-8362-4140-bd98-0eb3df3450cb and Job ID: 63
+2025-09-21T17:45:35.265Z [info]: Transaction queued with ID: 04b039fd-ace6-4339-8955-6e270c1cd4be and Job ID: 64
+2025-09-21T17:45:35.280Z [info]: Transaction queued with ID: 1a5d1a6a-35c4-4945-8421-024781a72dd4 and Job ID: 65
+2025-09-21T17:45:35.290Z [info]: Transaction queued with ID: 05459a8f-ecb4-4047-93cf-4e6ba129b260 and Job ID: 66
+2025-09-21T17:45:35.309Z [info]: Transaction queued with ID: 8ff5c5da-6aea-47c4-ad53-ee540586d84b and Job ID: 67
+2025-09-21T17:45:35.309Z [info]: Transaction queued with ID: 76e68e80-6b9d-45ed-b005-f2ae23fa3eda and Job ID: 68
+2025-09-21T17:45:35.339Z [info]: Transaction queued with ID: 751e0acf-f810-49d3-8e79-9e0532914857 and Job ID: 69
+2025-09-21T17:45:35.342Z [info]: Transaction queued with ID: 64bb1b22-40da-4670-8659-a3fb56b8ff8a and Job ID: 70
+2025-09-21T17:45:35.344Z [info]: Transaction queued with ID: 702586ee-3ccb-452b-9879-16c9416910df and Job ID: 71
+2025-09-21T17:45:35.348Z [info]: Transaction queued with ID: e2a5bf08-371b-4c43-9aee-9a949366d044 and Job ID: 72
+2025-09-21T17:45:35.361Z [info]: Transaction queued with ID: 2e40b73e-74be-4859-87e6-742b00efb95e and Job ID: 73
+2025-09-21T17:45:35.380Z [info]: Transaction queued with ID: a7aa6071-1764-4064-9d5b-6feacff95ff3 and Job ID: 74
+2025-09-21T17:45:35.380Z [info]: Transaction queued with ID: a4ce7ff1-e63a-45b9-a887-ece8fae88033 and Job ID: 75
+2025-09-21T17:45:35.405Z [info]: Transaction queued with ID: 0119d4b5-7bf1-4e4b-b697-34192739e0b1 and Job ID: 76
+2025-09-21T17:45:35.408Z [info]: Transaction queued with ID: 7c218790-bc81-4db2-82c3-8ab396778892 and Job ID: 77
+2025-09-21T17:45:35.425Z [info]: Transaction queued with ID: 5cc48f3d-c423-49c5-855e-57e4af21de62 and Job ID: 78
+2025-09-21T17:45:35.446Z [info]: Transaction queued with ID: 8bc35ee2-fefd-433c-b5e4-5506082dd4a0 and Job ID: 79
+2025-09-21T17:45:35.446Z [info]: Transaction queued with ID: c148e525-8859-4897-ab76-8b02654c12bd and Job ID: 80
+2025-09-21T17:45:35.447Z [info]: Transaction queued with ID: c354e24c-f345-4716-9ad2-d8b060ce884e and Job ID: 81
+2025-09-21T17:45:35.447Z [info]: Transaction queued with ID: 5d07e5b6-e70c-40d5-ba6c-167c0751e0ba and Job ID: 82
+2025-09-21T17:45:35.463Z [info]: Transaction queued with ID: da8cb334-1ccd-4814-a0de-0ca8cac8d0ac and Job ID: 83
+2025-09-21T17:45:35.472Z [info]: Transaction queued with ID: e5b41cb4-2ca6-4f79-9ccc-b98b16c2a7b5 and Job ID: 84
+2025-09-21T17:45:35.493Z [info]: Transaction queued with ID: 4815ce49-386e-490d-9537-5135cb1df9f1 and Job ID: 85
+2025-09-21T17:45:35.507Z [info]: Transaction queued with ID: 20f51afb-bf11-4b6e-a21a-24d77fe0bd98 and Job ID: 86
+2025-09-21T17:45:35.511Z [info]: Transaction queued with ID: 13f7cf2e-cb82-48b1-9a5b-bd683d537ac5 and Job ID: 87
+2025-09-21T17:45:35.535Z [info]: Transaction queued with ID: b718be28-a5f0-462f-ad67-d7e8ee32e644 and Job ID: 88
+2025-09-21T17:45:35.552Z [info]: Transaction queued with ID: b95c42d9-0edb-44f9-9179-5292462fa9c1 and Job ID: 89
+2025-09-21T17:45:35.554Z [info]: Transaction queued with ID: 35978d61-2b37-494e-ab63-f076c2cb2070 and Job ID: 90
+2025-09-21T17:45:35.555Z [info]: Transaction queued with ID: fee31c15-4f69-4517-bc16-9f25bdeb7467 and Job ID: 91
+2025-09-21T17:45:35.558Z [info]: Transaction queued with ID: dff4a75a-ac5f-42f6-9ebc-6f008f3efb9d and Job ID: 92
+2025-09-21T17:45:35.559Z [info]: Transaction queued with ID: 764239b5-99b8-4f50-9ebb-e23ce15e4eb3 and Job ID: 93
+2025-09-21T17:45:35.569Z [info]: Transaction queued with ID: 2b7d863b-c579-4999-a6bb-32e6cc7a2455 and Job ID: 94
+2025-09-21T17:45:35.587Z [info]: Transaction queued with ID: 2c8e1bc6-001f-4d11-af21-ce59c114846a and Job ID: 95
+2025-09-21T17:45:35.593Z [info]: Transaction queued with ID: 813fa774-9a27-4847-9798-cbecd59b25fd and Job ID: 96
+2025-09-21T17:45:35.597Z [info]: Transaction queued with ID: 9d9bdc60-fb42-4d8c-af9b-7b826fe6b645 and Job ID: 97
+2025-09-21T17:45:35.624Z [info]: Transaction queued with ID: b225d3ec-4740-47fe-9386-3b72e5664491 and Job ID: 98
+2025-09-21T17:45:35.630Z [info]: Transaction queued with ID: 9070785c-6129-4981-a2ed-37d1f0cd6e06 and Job ID: 99
+2025-09-21T17:45:35.644Z [info]: Transaction queued with ID: d6a2ddd4-5d33-4758-a211-5667c2e1742f and Job ID: 100
+2025-09-21T17:45:35.645Z [info]: Transaction queued with ID: 8a1e66cd-a148-4471-8d45-306c0b02a808 and Job ID: 101
+2025-09-21T17:45:35.645Z [info]: Transaction queued with ID: fc21ebee-17d0-4bea-a6c2-54e470925898 and Job ID: 102
+2025-09-21T17:45:35.661Z [info]: Transaction queued with ID: 4fe983cc-3f8a-4e92-93b3-1980de668c84 and Job ID: 103
+2025-09-21T17:45:35.666Z [info]: Transaction queued with ID: 47d6a3b4-82f4-414c-bb76-8f64c1c53ecf and Job ID: 104
+2025-09-21T17:45:35.694Z [info]: Transaction queued with ID: bc5f8e38-7406-41a0-8498-43f7c4d7aa03 and Job ID: 105
+2025-09-21T17:45:35.694Z [info]: Transaction queued with ID: 146bbb5b-b88e-4743-93ed-b3df307ab9a6 and Job ID: 106
+2025-09-21T17:45:35.694Z [info]: Transaction queued with ID: 9735d3dc-510e-4071-86b1-8a5d0a615215 and Job ID: 107
+2025-09-21T17:45:35.719Z [info]: Transaction queued with ID: cfde410b-6241-4c02-b13a-f2a92503dfbf and Job ID: 108
+2025-09-21T17:45:35.724Z [info]: Transaction queued with ID: 551ca69b-52e6-4d82-8bd7-ba5538eaa743 and Job ID: 109
+2025-09-21T17:45:35.729Z [info]: Transaction queued with ID: ab95fdd2-9a4b-43fd-8ba5-6d1722ba85dc and Job ID: 110
+2025-09-21T17:45:35.741Z [info]: Transaction queued with ID: 11541f2f-0f7d-4966-9397-4fef2fff15cd and Job ID: 111
+2025-09-21T17:45:35.748Z [info]: Transaction queued with ID: 6298a5e4-8212-4501-91ac-1e91c0eed769 and Job ID: 112
+2025-09-21T17:45:35.760Z [info]: Transaction queued with ID: 0887e8d3-6a37-4ee5-a836-552b87d87652 and Job ID: 113
+2025-09-21T17:45:35.762Z [info]: Transaction queued with ID: 7a246548-220e-4e44-af5e-1e6571afa80f and Job ID: 114
+2025-09-21T17:45:35.792Z [info]: Transaction queued with ID: 10973480-1639-41d9-850c-a5c0131a6b30 and Job ID: 115
+2025-09-21T17:45:35.793Z [info]: Transaction queued with ID: fd602d24-3f56-4b67-8cd6-d58d3472d550 and Job ID: 116
+2025-09-21T17:45:35.793Z [info]: Transaction queued with ID: 4dff5013-d6ff-4bee-9583-a677575a8d3a and Job ID: 117
+2025-09-21T17:45:35.821Z [info]: Transaction queued with ID: 684a2576-bb05-442b-b1fe-22d8f5f8304a and Job ID: 118
+2025-09-21T17:45:35.822Z [info]: Transaction queued with ID: 0e957605-f619-42b1-9cfc-73b66c5f3e9f and Job ID: 119
+2025-09-21T17:45:35.822Z [info]: Transaction queued with ID: 966e03ea-1281-4f67-91ee-de99043d994e and Job ID: 120
+2025-09-21T17:45:35.827Z [info]: Transaction queued with ID: 1b57a6d5-2cbf-420e-9ae7-3e2248a5fd06 and Job ID: 121
+2025-09-21T17:45:35.828Z [info]: Transaction queued with ID: 2523ea31-4b40-4935-8e3d-addbb38e7332 and Job ID: 122
+2025-09-21T17:45:35.854Z [info]: Transaction queued with ID: 4a8dfef2-b78b-49c5-b00c-fb18850c1794 and Job ID: 123
+2025-09-21T17:45:35.868Z [info]: Transaction queued with ID: 3af36eff-852e-4781-a095-850062fb5055 and Job ID: 124
+2025-09-21T17:45:35.879Z [info]: Transaction queued with ID: b56e337b-16c8-46f6-a826-9ec8732d984b and Job ID: 125
+2025-09-21T17:45:35.900Z [info]: Transaction queued with ID: c15e4f47-e246-4ccc-b151-0eedccc19ef6 and Job ID: 126
+2025-09-21T17:45:35.901Z [info]: Transaction queued with ID: bd686488-ffe6-4ba1-8465-4866c000523d and Job ID: 127
+2025-09-21T17:45:35.908Z [info]: Transaction queued with ID: 9b8330db-38f9-488d-a233-0ab312a8f67a and Job ID: 128
+2025-09-21T17:45:35.909Z [info]: Transaction queued with ID: 94b8ed36-aed8-4eb8-b359-f9534602afee and Job ID: 129
+2025-09-21T17:45:35.914Z [info]: Transaction queued with ID: 512bc9f8-f9d8-430d-842f-7573d0d87507 and Job ID: 130
+2025-09-21T17:45:35.914Z [info]: Transaction queued with ID: e05f224b-a137-42c3-b505-5b90fd20ab41 and Job ID: 131
+2025-09-21T17:45:35.917Z [info]: Transaction queued with ID: 1afb1849-5b2e-4282-8004-229e99325aea and Job ID: 132
+2025-09-21T17:45:35.955Z [info]: Transaction queued with ID: 88255ce6-c366-48c3-9576-f9822b5eb527 and Job ID: 133
+2025-09-21T17:45:35.964Z [info]: Transaction queued with ID: 801e48e5-64d3-48ff-8e04-d7f1360f1018 and Job ID: 134
+2025-09-21T17:45:35.969Z [info]: Transaction queued with ID: 25f0d257-2eb0-4aa4-8c1e-04e50591a13e and Job ID: 135
+2025-09-21T17:45:35.980Z [info]: Transaction queued with ID: abc388fe-da81-4222-bb23-da8d4f76b5e3 and Job ID: 136
+2025-09-21T17:45:35.983Z [info]: Transaction queued with ID: 2a17ec1f-9a0c-4e74-8559-f6257d4678e5 and Job ID: 137
+2025-09-21T17:45:38.071Z [info]: Transaction sent: "0x863385dca8134855f39f2cbfe199101698896f27cb743d9752bb52a981386aa6"
+2025-09-21T17:45:38.556Z [info]: Transaction mined 0x863385dca8134855f39f2cbfe199101698896f27cb743d9752bb52a981386aa6  
+2025-09-21T17:45:38.654Z [info]: Job 38 completed for queueId=d8a8a9d3-3d63-4228-b198-cf3ea01f6c6b
+2025-09-21T17:45:38.655Z [info]: Processing job 39 for queueId 9876eac9-5982-40fd-8807-e87f99a731a3
+2025-09-21T17:45:40.863Z [info]: Transaction sent: "0x81ef171e4e6a09a0417093bd993f45d9571e49cc7ac1f1dd21f264493ec1ceb3"
+2025-09-21T17:45:47.192Z [info]: Transaction mined 0x81ef171e4e6a09a0417093bd993f45d9571e49cc7ac1f1dd21f264493ec1ceb3  
+2025-09-21T17:45:47.285Z [info]: Job 39 completed for queueId=9876eac9-5982-40fd-8807-e87f99a731a3
+2025-09-21T17:45:47.285Z [info]: Processing job 40 for queueId 93e2feca-025f-4c73-ac46-01385f2e89e5
+2025-09-21T17:45:49.335Z [info]: Transaction sent: "0x28373472155beffd29e58aa22d416f5174d9d2359605f988d5ab422f366904cf"
+2025-09-21T17:45:55.270Z [info]: Transaction mined 0x28373472155beffd29e58aa22d416f5174d9d2359605f988d5ab422f366904cf  
+2025-09-21T17:45:55.366Z [info]: Job 40 completed for queueId=93e2feca-025f-4c73-ac46-01385f2e89e5
+2025-09-21T17:45:55.366Z [info]: Processing job 41 for queueId 7d18ad7d-988f-412b-b3b5-33a65e7823d0
+2025-09-21T17:45:57.419Z [info]: Transaction sent: "0xe3b598233cfc2448ae141c448689480703d7c6ab247a1ac378a99d6a1d46334f"
+2025-09-21T17:46:03.451Z [info]: Transaction mined 0xe3b598233cfc2448ae141c448689480703d7c6ab247a1ac378a99d6a1d46334f  
+2025-09-21T17:46:03.556Z [info]: Job 41 completed for queueId=7d18ad7d-988f-412b-b3b5-33a65e7823d0
+2025-09-21T17:46:03.558Z [info]: Processing job 42 for queueId c1d54193-8f69-4b8d-b080-237500f9fa97
+2025-09-21T17:46:05.811Z [info]: Transaction sent: "0x2d219526df31545660f42f3d3a6f10967b9c12e60af72a31dea401c929c01c61"
+2025-09-21T17:46:06.304Z [info]: Transaction mined 0x2d219526df31545660f42f3d3a6f10967b9c12e60af72a31dea401c929c01c61  
+2025-09-21T17:46:06.399Z [info]: Job 42 completed for queueId=c1d54193-8f69-4b8d-b080-237500f9fa97
+2025-09-21T17:46:06.399Z [info]: Processing job 43 for queueId 9d0cb32b-d9da-4da8-823c-5f9939019445
+2025-09-21T17:46:09.698Z [info]: Transaction sent: "0x711289456ec76c51d910a7cd9fda44fdae5fa596fea39f02150ec35d75febbf0"
+2025-09-21T17:46:10.191Z [info]: Transaction mined 0x711289456ec76c51d910a7cd9fda44fdae5fa596fea39f02150ec35d75febbf0  
+2025-09-21T17:46:10.284Z [info]: Job 43 completed for queueId=9d0cb32b-d9da-4da8-823c-5f9939019445
+2025-09-21T17:46:10.285Z [info]: Processing job 44 for queueId b04533eb-3630-4c91-b017-14a1e7f599e5
+2025-09-21T17:46:12.299Z [info]: Transaction sent: "0x05465aa0194140ac52982814b1b50af2581f8707be9deaf91d4c7a9887e38f2c"
+2025-09-21T17:46:18.271Z [info]: Transaction mined 0x05465aa0194140ac52982814b1b50af2581f8707be9deaf91d4c7a9887e38f2c  
+2025-09-21T17:46:18.377Z [info]: Job 44 completed for queueId=b04533eb-3630-4c91-b017-14a1e7f599e5
+2025-09-21T17:46:18.377Z [info]: Processing job 45 for queueId dbe32f0f-b1f5-4fb6-92e6-7126144e83ba
+2025-09-21T17:46:20.752Z [info]: Transaction sent: "0x17eb0b1e10ec1117ca80aa05541616b7d9ba36f213b645bcc91f727cb8ef7ec2"
+2025-09-21T17:46:26.635Z [info]: Transaction mined 0x17eb0b1e10ec1117ca80aa05541616b7d9ba36f213b645bcc91f727cb8ef7ec2  
+2025-09-21T17:46:26.735Z [info]: Job 45 completed for queueId=dbe32f0f-b1f5-4fb6-92e6-7126144e83ba
+2025-09-21T17:46:26.735Z [info]: Processing job 46 for queueId c0e005e0-fb75-46d6-afab-ad1f91c01a34
+2025-09-21T17:46:28.935Z [info]: Transaction sent: "0x5e4d6675bee55dd2ee7867e2ea4859df83e6aaf751125d79ba39ecc068e28336"
+2025-09-21T17:46:34.844Z [info]: Transaction mined 0x5e4d6675bee55dd2ee7867e2ea4859df83e6aaf751125d79ba39ecc068e28336  
+2025-09-21T17:46:34.938Z [info]: Job 46 completed for queueId=c0e005e0-fb75-46d6-afab-ad1f91c01a34
+2025-09-21T17:46:34.939Z [info]: Processing job 47 for queueId 583a8bff-36d5-4a1a-be6f-483fc382b478
+2025-09-21T17:46:37.138Z [info]: Transaction sent: "0x5df3626e0580add4b549899a548175253b8bd525bb1ec53d3543f673dc9b0c5f"
+2025-09-21T17:46:43.073Z [info]: Transaction mined 0x5df3626e0580add4b549899a548175253b8bd525bb1ec53d3543f673dc9b0c5f  
+2025-09-21T17:46:43.172Z [info]: Job 47 completed for queueId=583a8bff-36d5-4a1a-be6f-483fc382b478
+2025-09-21T17:46:43.173Z [info]: Processing job 48 for queueId 401dd686-6081-4e12-98ce-0a20a6945fd3
+2025-09-21T17:46:45.538Z [info]: Transaction sent: "0xc767f93502cade77bcf651ee00a6faf66f56b1fa9cc23d35af5cf33aec1ba3ac"
+2025-09-21T17:46:51.571Z [info]: Transaction mined 0xc767f93502cade77bcf651ee00a6faf66f56b1fa9cc23d35af5cf33aec1ba3ac  
+2025-09-21T17:46:51.662Z [info]: Job 48 completed for queueId=401dd686-6081-4e12-98ce-0a20a6945fd3
+2025-09-21T17:46:51.663Z [info]: Processing job 49 for queueId 9f1e8d1f-5827-4790-b306-b297270e024f
+2025-09-21T17:46:53.716Z [info]: Transaction sent: "0x6c734a4302c18d4114355a01c75d96db7748a60de223a97802dceadd814ec188"
+2025-09-21T17:46:54.539Z [info]: Transaction mined 0x6c734a4302c18d4114355a01c75d96db7748a60de223a97802dceadd814ec188  
+2025-09-21T17:46:54.631Z [info]: Job 49 completed for queueId=9f1e8d1f-5827-4790-b306-b297270e024f
+2025-09-21T17:46:54.632Z [info]: Processing job 50 for queueId 01253856-b4e7-4cb2-a3f1-e3128cb2eaf3
+2025-09-21T17:46:57.201Z [info]: Transaction sent: "0xac7db64891b11a53828de7269183cb68d2f37b660a7dc8662835779fc8e38b2a"
+2025-09-21T17:47:03.139Z [info]: Transaction mined 0xac7db64891b11a53828de7269183cb68d2f37b660a7dc8662835779fc8e38b2a  
+2025-09-21T17:47:03.232Z [info]: Job 50 completed for queueId=01253856-b4e7-4cb2-a3f1-e3128cb2eaf3
+2025-09-21T17:47:03.233Z [info]: Processing job 51 for queueId 790f9bb0-5d3a-4b4d-9d1f-a756074de988
+2025-09-21T17:47:05.483Z [info]: Transaction sent: "0xf2c6cab30fe7d034221176815c8daf036ab0cacd889b4b6fd5f282b8d9c2c517"
+2025-09-21T17:47:11.407Z [info]: Transaction mined 0xf2c6cab30fe7d034221176815c8daf036ab0cacd889b4b6fd5f282b8d9c2c517  
+2025-09-21T17:47:11.502Z [info]: Job 51 completed for queueId=790f9bb0-5d3a-4b4d-9d1f-a756074de988
+2025-09-21T17:47:11.503Z [info]: Processing job 52 for queueId 44147438-e7e0-401d-a179-3315512c6d7a
+2025-09-21T17:47:13.793Z [info]: Transaction sent: "0x11246ac1ec39c1df6c1f1fcc6390d672f11b48411cf7c6443234f909100d8a4f"
+2025-09-21T17:47:14.276Z [info]: Transaction mined 0x11246ac1ec39c1df6c1f1fcc6390d672f11b48411cf7c6443234f909100d8a4f  
+2025-09-21T17:47:14.370Z [info]: Job 52 completed for queueId=44147438-e7e0-401d-a179-3315512c6d7a
+2025-09-21T17:47:14.370Z [info]: Processing job 53 for queueId 8558a689-9a1d-4494-af39-d15189632853
+2025-09-21T17:47:16.584Z [info]: Transaction sent: "0xa570278591b4e64e05a8f049b69ae8154e887b1c3ab4a8aea82ff22a74c6ef19"
+2025-09-21T17:47:22.573Z [info]: Transaction mined 0xa570278591b4e64e05a8f049b69ae8154e887b1c3ab4a8aea82ff22a74c6ef19  
+2025-09-21T17:47:22.669Z [info]: Job 53 completed for queueId=8558a689-9a1d-4494-af39-d15189632853
+2025-09-21T17:47:22.670Z [info]: Processing job 54 for queueId f3916cb5-8126-4c37-830d-531fe6405f3e
+2025-09-21T17:47:25.359Z [info]: Transaction sent: "0x82caa13bbe18506520744f31b282b63a4579443249b2e92a79939b2a28ceb217"
+2025-09-21T17:47:31.391Z [info]: Transaction mined 0x82caa13bbe18506520744f31b282b63a4579443249b2e92a79939b2a28ceb217  
+2025-09-21T17:47:31.485Z [info]: Job 54 completed for queueId=f3916cb5-8126-4c37-830d-531fe6405f3e
+2025-09-21T17:47:31.485Z [info]: Processing job 55 for queueId 35fadf45-c932-4f24-b201-8bb31fb07b61
+2025-09-21T17:47:33.657Z [info]: Transaction sent: "0x06370ca3c8491244646f8cb82e17ab982ea3d284def0d23542bcc82369f3590a"
+2025-09-21T17:47:34.463Z [info]: Transaction mined 0x06370ca3c8491244646f8cb82e17ab982ea3d284def0d23542bcc82369f3590a  
+2025-09-21T17:47:34.565Z [info]: Job 55 completed for queueId=35fadf45-c932-4f24-b201-8bb31fb07b61
+2025-09-21T17:47:34.566Z [info]: Processing job 56 for queueId 6110caa8-5f27-4498-a1ae-4ac405f8b9d5
+2025-09-21T17:47:41.574Z [info]: Transaction sent: "0x5057279871f03cf1470f5faed03db50fee48223804424e0e79be0a89f1730367"
+2025-09-21T17:47:42.297Z [info]: Transaction mined 0x5057279871f03cf1470f5faed03db50fee48223804424e0e79be0a89f1730367  
+2025-09-21T17:47:42.391Z [info]: Job 56 completed for queueId=6110caa8-5f27-4498-a1ae-4ac405f8b9d5
+2025-09-21T17:47:42.392Z [info]: Processing job 57 for queueId fbc27617-66d7-41d2-8b18-ee538f90ba5c
+2025-09-21T17:47:44.717Z [info]: Transaction sent: "0xdbf97b9e11b42a1ace04d0a7cfdfe11d7a20d3fe474835a53f0368e63f71a1bc"
+2025-09-21T17:47:50.854Z [info]: Transaction mined 0xdbf97b9e11b42a1ace04d0a7cfdfe11d7a20d3fe474835a53f0368e63f71a1bc  
+2025-09-21T17:47:50.946Z [info]: Job 57 completed for queueId=fbc27617-66d7-41d2-8b18-ee538f90ba5c
+2025-09-21T17:47:50.946Z [info]: Processing job 58 for queueId d0a98f62-0792-4be1-9dfc-0af3fa52a223
+2025-09-21T17:47:53.211Z [info]: Transaction sent: "0x0b24b92399eedb64beeb393dbf96141e9f211d29d8e7c8ca699dc17e5e10a3ec"
+2025-09-21T17:47:59.121Z [info]: Transaction mined 0x0b24b92399eedb64beeb393dbf96141e9f211d29d8e7c8ca699dc17e5e10a3ec  
+2025-09-21T17:47:59.213Z [info]: Job 58 completed for queueId=d0a98f62-0792-4be1-9dfc-0af3fa52a223
+2025-09-21T17:47:59.213Z [info]: Processing job 59 for queueId 1fc4efbd-98d6-4c73-9551-8ace9f88bec4
+2025-09-21T17:48:01.388Z [info]: Transaction sent: "0x085dc6cea8eb5635d2e6b4644710bce33b50147a69dc7401d0ee91b4714c1a79"
+2025-09-21T17:48:07.321Z [info]: Transaction mined 0x085dc6cea8eb5635d2e6b4644710bce33b50147a69dc7401d0ee91b4714c1a79  
+2025-09-21T17:48:07.421Z [info]: Job 59 completed for queueId=1fc4efbd-98d6-4c73-9551-8ace9f88bec4
+2025-09-21T17:48:07.421Z [info]: Processing job 60 for queueId 6e792722-4707-4650-8eae-14ea13ea5322
+2025-09-21T17:48:09.612Z [info]: Transaction sent: "0xadbb72c4e3d03de187cc3abf035a46f751f01d77187488aa96fe5f6988c695db"
+2025-09-21T17:48:15.542Z [info]: Transaction mined 0xadbb72c4e3d03de187cc3abf035a46f751f01d77187488aa96fe5f6988c695db  
+2025-09-21T17:48:15.633Z [info]: Job 60 completed for queueId=6e792722-4707-4650-8eae-14ea13ea5322
+2025-09-21T17:48:15.634Z [info]: Processing job 61 for queueId 7fa49f81-2376-4888-9af3-32b2bd722fa4
+2025-09-21T17:48:17.753Z [info]: Transaction sent: "0xcb584de4d06b3b2e68ec1c8e879d7edfabf03f660ca675576c5f61902e640f24"
+2025-09-21T17:48:19.525Z [info]: Transaction mined 0xcb584de4d06b3b2e68ec1c8e879d7edfabf03f660ca675576c5f61902e640f24  
+2025-09-21T17:48:19.618Z [info]: Job 61 completed for queueId=7fa49f81-2376-4888-9af3-32b2bd722fa4
+2025-09-21T17:48:19.619Z [info]: Processing job 62 for queueId 5695bb6d-4328-4afa-b236-0c192244d648
+2025-09-21T17:48:21.693Z [info]: Transaction sent: "0xf8b641a2138ce569301e4b8c1041712ddfe227acf03324f94b1ea0ec593a381a"
+2025-09-21T17:48:22.187Z [info]: Transaction mined 0xf8b641a2138ce569301e4b8c1041712ddfe227acf03324f94b1ea0ec593a381a  
+2025-09-21T17:48:22.283Z [info]: Job 62 completed for queueId=5695bb6d-4328-4afa-b236-0c192244d648
+2025-09-21T17:48:22.284Z [info]: Processing job 63 for queueId a1e61fde-8362-4140-bd98-0eb3df3450cb
+2025-09-21T17:48:24.459Z [info]: Transaction sent: "0xfc4d27efc7dae5c94b3f6c4de2bccae6fe5c614ee6841fda9d75bee4126604fb"
+2025-09-21T17:48:30.797Z [info]: Transaction mined 0xfc4d27efc7dae5c94b3f6c4de2bccae6fe5c614ee6841fda9d75bee4126604fb  
+2025-09-21T17:48:30.891Z [info]: Job 63 completed for queueId=a1e61fde-8362-4140-bd98-0eb3df3450cb
+2025-09-21T17:48:30.891Z [info]: Processing job 64 for queueId 04b039fd-ace6-4339-8955-6e270c1cd4be
+2025-09-21T17:48:33.063Z [info]: Transaction sent: "0x7d094d7458da48c9d34c30bd911d42a60d26525a06ea8db0334a31a7302d57d2"
+2025-09-21T17:48:39.107Z [info]: Transaction mined 0x7d094d7458da48c9d34c30bd911d42a60d26525a06ea8db0334a31a7302d57d2  
+2025-09-21T17:48:39.200Z [info]: Job 64 completed for queueId=04b039fd-ace6-4339-8955-6e270c1cd4be
+2025-09-21T17:48:39.200Z [info]: Processing job 65 for queueId 1a5d1a6a-35c4-4945-8421-024781a72dd4
+2025-09-21T17:48:41.541Z [info]: Transaction sent: "0xf23a9807732229607cc145c5a32ccb72ec7a65f10b87447825c375264583cddc"
+2025-09-21T17:48:47.497Z [info]: Transaction mined 0xf23a9807732229607cc145c5a32ccb72ec7a65f10b87447825c375264583cddc  
+2025-09-21T17:48:47.592Z [info]: Job 65 completed for queueId=1a5d1a6a-35c4-4945-8421-024781a72dd4
+2025-09-21T17:48:47.592Z [info]: Processing job 66 for queueId 05459a8f-ecb4-4047-93cf-4e6ba129b260
+2025-09-21T17:48:49.945Z [info]: Transaction sent: "0x84faf9041e13f63ec94085e0077bac6f8e757245aaa60b4d2b00e4089506f5e5"
+2025-09-21T17:48:50.435Z [info]: Transaction mined 0x84faf9041e13f63ec94085e0077bac6f8e757245aaa60b4d2b00e4089506f5e5  
+2025-09-21T17:48:50.534Z [info]: Job 66 completed for queueId=05459a8f-ecb4-4047-93cf-4e6ba129b260
+2025-09-21T17:48:50.534Z [info]: Processing job 67 for queueId 8ff5c5da-6aea-47c4-ad53-ee540586d84b
+2025-09-21T17:48:52.725Z [info]: Transaction sent: "0x130baa070d1ac117c08e9719d65f46cb6a86717b923c6d36c439b900acc82fc9"
+2025-09-21T17:48:58.658Z [info]: Transaction mined 0x130baa070d1ac117c08e9719d65f46cb6a86717b923c6d36c439b900acc82fc9  
+2025-09-21T17:48:58.752Z [info]: Job 67 completed for queueId=8ff5c5da-6aea-47c4-ad53-ee540586d84b
+2025-09-21T17:48:58.752Z [info]: Processing job 68 for queueId 76e68e80-6b9d-45ed-b005-f2ae23fa3eda
+2025-09-21T17:49:01.020Z [info]: Transaction sent: "0x5dd88fe8a73cfdb330b1189ccef4c39decc5187d36c0dfce880b6054e0670978"
+2025-09-21T17:49:06.950Z [info]: Transaction mined 0x5dd88fe8a73cfdb330b1189ccef4c39decc5187d36c0dfce880b6054e0670978  
+2025-09-21T17:49:07.043Z [info]: Job 68 completed for queueId=76e68e80-6b9d-45ed-b005-f2ae23fa3eda
+2025-09-21T17:49:07.043Z [info]: Processing job 69 for queueId 751e0acf-f810-49d3-8e79-9e0532914857
+2025-09-21T17:49:09.103Z [info]: Transaction sent: "0x0ca45075422aa930838593e188574a7998df294ec56674741b5ad50964a95e7c"
+2025-09-21T17:49:15.011Z [info]: Transaction mined 0x0ca45075422aa930838593e188574a7998df294ec56674741b5ad50964a95e7c  
+2025-09-21T17:49:15.104Z [info]: Job 69 completed for queueId=751e0acf-f810-49d3-8e79-9e0532914857
+2025-09-21T17:49:15.105Z [info]: Processing job 70 for queueId 64bb1b22-40da-4670-8659-a3fb56b8ff8a
+2025-09-21T17:49:17.300Z [info]: Transaction sent: "0xf0e97944b44a287dc1334272e76a13f90aff9b53d47b433761148b9560eb9e83"
+2025-09-21T17:49:23.279Z [info]: Transaction mined 0xf0e97944b44a287dc1334272e76a13f90aff9b53d47b433761148b9560eb9e83  
+2025-09-21T17:49:23.372Z [info]: Job 70 completed for queueId=64bb1b22-40da-4670-8659-a3fb56b8ff8a
+2025-09-21T17:49:23.373Z [info]: Processing job 71 for queueId 702586ee-3ccb-452b-9879-16c9416910df
+2025-09-21T17:49:25.692Z [info]: Transaction sent: "0xb6c1c42bd0d63f15bddc2d6f5d6dbae0b155f6f1df6a6e40f7d83e4e6f28bc33"
+2025-09-21T17:49:26.180Z [info]: Transaction mined 0xb6c1c42bd0d63f15bddc2d6f5d6dbae0b155f6f1df6a6e40f7d83e4e6f28bc33  
+2025-09-21T17:49:26.273Z [info]: Job 71 completed for queueId=702586ee-3ccb-452b-9879-16c9416910df
+2025-09-21T17:49:26.274Z [info]: Processing job 72 for queueId e2a5bf08-371b-4c43-9aee-9a949366d044
+2025-09-21T17:49:28.344Z [info]: Transaction sent: "0x53f3f3f2225e6eefb849e7d39d89d3a69f78bcd2e0e691f7372a892deb190268"
+2025-09-21T17:49:34.671Z [info]: Transaction mined 0x53f3f3f2225e6eefb849e7d39d89d3a69f78bcd2e0e691f7372a892deb190268  
+2025-09-21T17:49:34.769Z [info]: Job 72 completed for queueId=e2a5bf08-371b-4c43-9aee-9a949366d044
+2025-09-21T17:49:34.770Z [info]: Processing job 73 for queueId 2e40b73e-74be-4859-87e6-742b00efb95e
+2025-09-21T17:49:36.948Z [info]: Transaction sent: "0x37248525d8f422589a1b3ea5f65170916e12f46699825ce02ec1e9b0b30c3950"
+2025-09-21T17:49:43.579Z [info]: Transaction mined 0x37248525d8f422589a1b3ea5f65170916e12f46699825ce02ec1e9b0b30c3950  
+2025-09-21T17:49:43.671Z [info]: Job 73 completed for queueId=2e40b73e-74be-4859-87e6-742b00efb95e
+2025-09-21T17:49:43.672Z [info]: Processing job 74 for queueId a7aa6071-1764-4064-9d5b-6feacff95ff3
+2025-09-21T17:49:45.763Z [info]: Transaction sent: "0x996b5f1fcc47c56d5ee6886b04968f6e4e20dfa8700ac8542ff20c32bc9ba1f1"
+2025-09-21T17:49:46.258Z [info]: Transaction mined 0x996b5f1fcc47c56d5ee6886b04968f6e4e20dfa8700ac8542ff20c32bc9ba1f1  
+2025-09-21T17:49:46.356Z [info]: Job 74 completed for queueId=a7aa6071-1764-4064-9d5b-6feacff95ff3
+2025-09-21T17:49:46.357Z [info]: Processing job 75 for queueId a4ce7ff1-e63a-45b9-a887-ece8fae88033
+2025-09-21T17:49:48.605Z [info]: Transaction sent: "0x6a834a1f5db6102b185595ae07df2c5185ae9cc119c8a34c3902f1c76603af84"
+2025-09-21T17:49:54.562Z [info]: Transaction mined 0x6a834a1f5db6102b185595ae07df2c5185ae9cc119c8a34c3902f1c76603af84  
+2025-09-21T17:49:54.655Z [info]: Job 75 completed for queueId=a4ce7ff1-e63a-45b9-a887-ece8fae88033
+2025-09-21T17:49:54.656Z [info]: Processing job 76 for queueId 0119d4b5-7bf1-4e4b-b697-34192739e0b1
+2025-09-21T17:49:56.825Z [info]: Transaction sent: "0x892fe3229378ec646c4a45402e73825875e4c3f7bd50083b869d02f0071635c4"
+2025-09-21T17:50:02.757Z [info]: Transaction mined 0x892fe3229378ec646c4a45402e73825875e4c3f7bd50083b869d02f0071635c4  
+2025-09-21T17:50:02.853Z [info]: Job 76 completed for queueId=0119d4b5-7bf1-4e4b-b697-34192739e0b1
+2025-09-21T17:50:02.854Z [info]: Processing job 77 for queueId 7c218790-bc81-4db2-82c3-8ab396778892
+2025-09-21T17:50:04.978Z [info]: Transaction sent: "0x6edac4f639cb4275bf522f748f5926e6055fc11cddb4cedf57180ca79aa6bb7b"
+2025-09-21T17:50:10.944Z [info]: Transaction mined 0x6edac4f639cb4275bf522f748f5926e6055fc11cddb4cedf57180ca79aa6bb7b  
+2025-09-21T17:50:11.035Z [info]: Job 77 completed for queueId=7c218790-bc81-4db2-82c3-8ab396778892
+2025-09-21T17:50:11.036Z [info]: Processing job 78 for queueId 5cc48f3d-c423-49c5-855e-57e4af21de62
+2025-09-21T17:50:13.208Z [info]: Transaction sent: "0x5beba8c92bd4b5f9c1ef2c36eafcd2047be7188c90a159785ced294c785d5a26"
+2025-09-21T17:50:19.141Z [info]: Transaction mined 0x5beba8c92bd4b5f9c1ef2c36eafcd2047be7188c90a159785ced294c785d5a26  
+2025-09-21T17:50:19.235Z [info]: Job 78 completed for queueId=5cc48f3d-c423-49c5-855e-57e4af21de62
+2025-09-21T17:50:19.235Z [info]: Processing job 79 for queueId 8bc35ee2-fefd-433c-b5e4-5506082dd4a0
+2025-09-21T17:50:21.411Z [info]: Transaction sent: "0xc9bf2eb2b5b9d04eb1afdb97c66760f4efc2491011a0c2c8cd5475dfddd843aa"
+2025-09-21T17:50:27.495Z [info]: Transaction mined 0xc9bf2eb2b5b9d04eb1afdb97c66760f4efc2491011a0c2c8cd5475dfddd843aa  
+2025-09-21T17:50:27.588Z [info]: Job 79 completed for queueId=8bc35ee2-fefd-433c-b5e4-5506082dd4a0
+2025-09-21T17:50:27.589Z [info]: Processing job 80 for queueId c148e525-8859-4897-ab76-8b02654c12bd
+2025-09-21T17:50:29.691Z [info]: Transaction sent: "0xfc5a7c636176906bb2ded3ef6dc96503b744d7db61951c96fb0c3cc7af084767"
+2025-09-21T17:50:30.313Z [info]: Transaction mined 0xfc5a7c636176906bb2ded3ef6dc96503b744d7db61951c96fb0c3cc7af084767  
+2025-09-21T17:50:30.412Z [info]: Job 80 completed for queueId=c148e525-8859-4897-ab76-8b02654c12bd
+2025-09-21T17:50:30.412Z [info]: Processing job 81 for queueId c354e24c-f345-4716-9ad2-d8b060ce884e
+2025-09-21T17:50:32.521Z [info]: Transaction sent: "0x178b0f2ba0d557076d44f57e55d856df94d98d75c547f0245bb1d7197984be9b"
+2025-09-21T17:50:39.047Z [info]: Transaction mined 0x178b0f2ba0d557076d44f57e55d856df94d98d75c547f0245bb1d7197984be9b  
+2025-09-21T17:50:39.144Z [info]: Job 81 completed for queueId=c354e24c-f345-4716-9ad2-d8b060ce884e
+2025-09-21T17:50:39.144Z [info]: Processing job 82 for queueId 5d07e5b6-e70c-40d5-ba6c-167c0751e0ba
+2025-09-21T17:50:41.361Z [info]: Transaction sent: "0x48bcf11b1cfa1afe3930b9f73551229262787e63b5b56baa369f0b3656ed1061"
+2025-09-21T17:50:47.393Z [info]: Transaction mined 0x48bcf11b1cfa1afe3930b9f73551229262787e63b5b56baa369f0b3656ed1061  
+2025-09-21T17:50:47.485Z [info]: Job 82 completed for queueId=5d07e5b6-e70c-40d5-ba6c-167c0751e0ba
+2025-09-21T17:50:47.486Z [info]: Processing job 83 for queueId da8cb334-1ccd-4814-a0de-0ca8cac8d0ac
+2025-09-21T17:50:49.654Z [info]: Transaction sent: "0x4a8a77cbe49e3e1489f710f010f76b0750595588a252a309b420f038f6c42a0a"
+2025-09-21T17:50:55.756Z [info]: Transaction mined 0x4a8a77cbe49e3e1489f710f010f76b0750595588a252a309b420f038f6c42a0a  
+2025-09-21T17:50:55.850Z [info]: Job 83 completed for queueId=da8cb334-1ccd-4814-a0de-0ca8cac8d0ac
+2025-09-21T17:50:55.851Z [info]: Processing job 84 for queueId e5b41cb4-2ca6-4f79-9ccc-b98b16c2a7b5
+2025-09-21T17:50:58.309Z [info]: Transaction sent: "0x89ef4f28b0b13d6b656f167b724069ca0b4d0f13f51f9923b447073f74c187cf"
+2025-09-21T17:51:04.371Z [info]: Transaction mined 0x89ef4f28b0b13d6b656f167b724069ca0b4d0f13f51f9923b447073f74c187cf  
+2025-09-21T17:51:04.464Z [info]: Job 84 completed for queueId=e5b41cb4-2ca6-4f79-9ccc-b98b16c2a7b5
+2025-09-21T17:51:04.464Z [info]: Processing job 85 for queueId 4815ce49-386e-490d-9537-5135cb1df9f1
+2025-09-21T17:51:06.743Z [info]: Transaction sent: "0x4c87b88ee6c80ebcb2b6534c6b037ca86b7fba884175dab82177899ba6ec4050"
+2025-09-21T17:51:13.092Z [info]: Transaction mined 0x4c87b88ee6c80ebcb2b6534c6b037ca86b7fba884175dab82177899ba6ec4050  
+2025-09-21T17:51:13.196Z [info]: Job 85 completed for queueId=4815ce49-386e-490d-9537-5135cb1df9f1
+2025-09-21T17:51:13.197Z [info]: Processing job 86 for queueId 20f51afb-bf11-4b6e-a21a-24d77fe0bd98
+2025-09-21T17:51:15.454Z [info]: Transaction sent: "0xe34cc529dcc071ff1e45f041657194f948094261ae33bea4927b9463c1838316"
+2025-09-21T17:51:21.494Z [info]: Transaction mined 0xe34cc529dcc071ff1e45f041657194f948094261ae33bea4927b9463c1838316  
+2025-09-21T17:51:21.591Z [info]: Job 86 completed for queueId=20f51afb-bf11-4b6e-a21a-24d77fe0bd98
+2025-09-21T17:51:21.592Z [info]: Processing job 87 for queueId 13f7cf2e-cb82-48b1-9a5b-bd683d537ac5
+2025-09-21T17:51:23.849Z [info]: Transaction sent: "0xe7e845d5ab4514c853292969414cbfe60eca7aad8edfda1bb31e636af37c9d5c"
+2025-09-21T17:51:24.334Z [info]: Transaction mined 0xe7e845d5ab4514c853292969414cbfe60eca7aad8edfda1bb31e636af37c9d5c  
+2025-09-21T17:51:24.425Z [info]: Job 87 completed for queueId=13f7cf2e-cb82-48b1-9a5b-bd683d537ac5
+2025-09-21T17:51:24.426Z [info]: Processing job 88 for queueId b718be28-a5f0-462f-ad67-d7e8ee32e644
+2025-09-21T17:51:26.597Z [info]: Transaction sent: "0xab9796a328b6da19eb196b8e6b4bbd5fac5a214218c644efc12208f1ac361bc0"
+2025-09-21T17:51:32.649Z [info]: Transaction mined 0xab9796a328b6da19eb196b8e6b4bbd5fac5a214218c644efc12208f1ac361bc0  
+2025-09-21T17:51:32.740Z [info]: Job 88 completed for queueId=b718be28-a5f0-462f-ad67-d7e8ee32e644
+2025-09-21T17:51:32.741Z [info]: Processing job 89 for queueId b95c42d9-0edb-44f9-9179-5292462fa9c1
+2025-09-21T17:51:34.980Z [info]: Transaction sent: "0xc8e3252422d4a3d201fbd39e2c9fb188d286687a1b2ebd274f8c2494fa4103f2"
+2025-09-21T17:51:40.943Z [info]: Transaction mined 0xc8e3252422d4a3d201fbd39e2c9fb188d286687a1b2ebd274f8c2494fa4103f2  
+2025-09-21T17:51:41.037Z [info]: Job 89 completed for queueId=b95c42d9-0edb-44f9-9179-5292462fa9c1
+2025-09-21T17:51:41.037Z [info]: Processing job 90 for queueId 35978d61-2b37-494e-ab63-f076c2cb2070
+2025-09-21T17:51:43.410Z [info]: Transaction sent: "0xa239a47677b0e9148a85a6f3c37a247150a06ad1980bd9982a2b1705da22fbcb"
+2025-09-21T17:51:49.365Z [info]: Transaction mined 0xa239a47677b0e9148a85a6f3c37a247150a06ad1980bd9982a2b1705da22fbcb  
+2025-09-21T17:51:49.457Z [info]: Job 90 completed for queueId=35978d61-2b37-494e-ab63-f076c2cb2070
+2025-09-21T17:51:49.458Z [info]: Processing job 91 for queueId fee31c15-4f69-4517-bc16-9f25bdeb7467
+2025-09-21T17:51:52.841Z [info]: Transaction sent: "0x7959244a6bae029dd3e68a1217f4ea16b5a6ef43a3b791608a36d6571c5036a7"
+2025-09-21T17:51:58.963Z [info]: Transaction mined 0x7959244a6bae029dd3e68a1217f4ea16b5a6ef43a3b791608a36d6571c5036a7  
+2025-09-21T17:51:59.062Z [info]: Job 91 completed for queueId=fee31c15-4f69-4517-bc16-9f25bdeb7467
+2025-09-21T17:51:59.063Z [info]: Processing job 92 for queueId dff4a75a-ac5f-42f6-9ebc-6f008f3efb9d
+2025-09-21T17:52:01.327Z [info]: Transaction sent: "0xceb7309240fabcdc162a02e3242ce5850447391c21a479c46e18eee24d717b9c"
+2025-09-21T17:52:07.407Z [info]: Transaction mined 0xceb7309240fabcdc162a02e3242ce5850447391c21a479c46e18eee24d717b9c  
+2025-09-21T17:52:07.501Z [info]: Job 92 completed for queueId=dff4a75a-ac5f-42f6-9ebc-6f008f3efb9d
+2025-09-21T17:52:07.501Z [info]: Processing job 93 for queueId 764239b5-99b8-4f50-9ebb-e23ce15e4eb3
+2025-09-21T17:52:10.343Z [info]: Transaction sent: "0xf5e4147b546a8958d9bf96209275f167c51bc20ff90eee4d6df04981bc7b57c2"
+2025-09-21T17:52:16.250Z [info]: Transaction mined 0xf5e4147b546a8958d9bf96209275f167c51bc20ff90eee4d6df04981bc7b57c2  
+2025-09-21T17:52:16.343Z [info]: Job 93 completed for queueId=764239b5-99b8-4f50-9ebb-e23ce15e4eb3
+2025-09-21T17:52:16.344Z [info]: Processing job 94 for queueId 2b7d863b-c579-4999-a6bb-32e6cc7a2455
+2025-09-21T17:52:18.530Z [info]: Transaction sent: "0xf4078eb8bd35a23646561cf1f04c31cf46d18a38c12ccbf996963000c59a51e0"
+2025-09-21T17:52:24.482Z [info]: Transaction mined 0xf4078eb8bd35a23646561cf1f04c31cf46d18a38c12ccbf996963000c59a51e0  
+2025-09-21T17:52:24.584Z [info]: Job 94 completed for queueId=2b7d863b-c579-4999-a6bb-32e6cc7a2455
+2025-09-21T17:52:24.584Z [info]: Processing job 95 for queueId 2c8e1bc6-001f-4d11-af21-ce59c114846a
+2025-09-21T17:52:26.717Z [info]: Transaction sent: "0x4b42fd77ff63061316b07f390ea2e64bf9af8133382fb60b52e05fcdd0a76eef"
+2025-09-21T17:52:32.752Z [info]: Transaction mined 0x4b42fd77ff63061316b07f390ea2e64bf9af8133382fb60b52e05fcdd0a76eef  
+2025-09-21T17:52:32.844Z [info]: Job 95 completed for queueId=2c8e1bc6-001f-4d11-af21-ce59c114846a
+2025-09-21T17:52:32.844Z [info]: Processing job 96 for queueId 813fa774-9a27-4847-9798-cbecd59b25fd
+2025-09-21T17:52:35.013Z [info]: Transaction sent: "0x27ce463e7a198774aeda34fc8df50fab304e551175ea49755d3bcfb40ca9a830"
+2025-09-21T17:52:41.048Z [info]: Transaction mined 0x27ce463e7a198774aeda34fc8df50fab304e551175ea49755d3bcfb40ca9a830  
+2025-09-21T17:52:41.139Z [info]: Job 96 completed for queueId=813fa774-9a27-4847-9798-cbecd59b25fd
+2025-09-21T17:52:41.140Z [info]: Processing job 97 for queueId 9d9bdc60-fb42-4d8c-af9b-7b826fe6b645
+2025-09-21T17:52:43.304Z [info]: Transaction sent: "0x2f3567bf828b12efadaab355d012d453eef9f523f7dfafdf7c33a236d160183f"
+2025-09-21T17:52:49.493Z [info]: Transaction mined 0x2f3567bf828b12efadaab355d012d453eef9f523f7dfafdf7c33a236d160183f  
+2025-09-21T17:52:49.585Z [info]: Job 97 completed for queueId=9d9bdc60-fb42-4d8c-af9b-7b826fe6b645
+2025-09-21T17:52:49.585Z [info]: Processing job 98 for queueId b225d3ec-4740-47fe-9386-3b72e5664491
+2025-09-21T17:52:51.704Z [info]: Transaction sent: "0xd1dafbb8da0c003cb8994db9a704da96cba886a526ae9e1a324ababae9176fc9"
+2025-09-21T17:52:52.197Z [info]: Transaction mined 0xd1dafbb8da0c003cb8994db9a704da96cba886a526ae9e1a324ababae9176fc9  
+2025-09-21T17:52:52.288Z [info]: Job 98 completed for queueId=b225d3ec-4740-47fe-9386-3b72e5664491
+2025-09-21T17:52:52.289Z [info]: Processing job 99 for queueId 9070785c-6129-4981-a2ed-37d1f0cd6e06
+2025-09-21T17:52:54.356Z [info]: Transaction sent: "0x0755139fc746ab9dcac7d273da9cbd1547e2eea80d62838841b47f58faa38447"
+2025-09-21T17:53:00.673Z [info]: Transaction mined 0x0755139fc746ab9dcac7d273da9cbd1547e2eea80d62838841b47f58faa38447  
+2025-09-21T17:53:00.764Z [info]: Job 99 completed for queueId=9070785c-6129-4981-a2ed-37d1f0cd6e06
+2025-09-21T17:53:00.764Z [info]: Processing job 100 for queueId d6a2ddd4-5d33-4758-a211-5667c2e1742f
+2025-09-21T17:53:02.866Z [info]: Transaction sent: "0xaf544a1b10e064780ebb7cf518d763b4a7af1414f4f343f2082e05e3cb14e8dd"
+2025-09-21T17:53:08.898Z [info]: Transaction mined 0xaf544a1b10e064780ebb7cf518d763b4a7af1414f4f343f2082e05e3cb14e8dd  
+2025-09-21T17:53:08.989Z [info]: Job 100 completed for queueId=d6a2ddd4-5d33-4758-a211-5667c2e1742f
+2025-09-21T17:53:08.990Z [info]: Processing job 101 for queueId 8a1e66cd-a148-4471-8d45-306c0b02a808
+2025-09-21T17:53:11.160Z [info]: Transaction sent: "0x48b40e232301cdfd0c95564632c39ab8146e59a281166c3247127226aa5494d4"
+2025-09-21T17:53:17.173Z [info]: Transaction mined 0x48b40e232301cdfd0c95564632c39ab8146e59a281166c3247127226aa5494d4  
+2025-09-21T17:53:17.265Z [info]: Job 101 completed for queueId=8a1e66cd-a148-4471-8d45-306c0b02a808
+2025-09-21T17:53:17.266Z [info]: Processing job 102 for queueId fc21ebee-17d0-4bea-a6c2-54e470925898
+2025-09-21T17:53:19.344Z [info]: Transaction sent: "0x7858a6d1506f5d53b75afa53d59cce8e1b7831db0d0fe7edd67721c5332ef5e7"
+2025-09-21T17:53:25.692Z [info]: Transaction mined 0x7858a6d1506f5d53b75afa53d59cce8e1b7831db0d0fe7edd67721c5332ef5e7  
+2025-09-21T17:53:25.792Z [info]: Job 102 completed for queueId=fc21ebee-17d0-4bea-a6c2-54e470925898
+2025-09-21T17:53:25.792Z [info]: Processing job 103 for queueId 4fe983cc-3f8a-4e92-93b3-1980de668c84
+2025-09-21T17:53:29.490Z [info]: Transaction sent: "0x51b1f427c2153aaffc8dd212af28a40193d68e8fdd3095a7ba57a41df33e8176"
+2025-09-21T17:53:35.623Z [info]: Transaction mined 0x51b1f427c2153aaffc8dd212af28a40193d68e8fdd3095a7ba57a41df33e8176  
+2025-09-21T17:53:35.725Z [info]: Job 103 completed for queueId=4fe983cc-3f8a-4e92-93b3-1980de668c84
+2025-09-21T17:53:35.725Z [info]: Processing job 104 for queueId 47d6a3b4-82f4-414c-bb76-8f64c1c53ecf
+2025-09-21T17:53:37.979Z [info]: Transaction sent: "0xf2ec6a1381989077ea3176f0f2c33064189d0f82b1dd990e7cb2e404a3761e49"
+2025-09-21T17:53:38.480Z [info]: Transaction mined 0xf2ec6a1381989077ea3176f0f2c33064189d0f82b1dd990e7cb2e404a3761e49  
+2025-09-21T17:53:38.571Z [info]: Job 104 completed for queueId=47d6a3b4-82f4-414c-bb76-8f64c1c53ecf
+2025-09-21T17:53:38.571Z [info]: Processing job 105 for queueId bc5f8e38-7406-41a0-8498-43f7c4d7aa03
+2025-09-21T17:53:40.751Z [info]: Transaction sent: "0x114fa5f53141c7a5732b7c2bbb049d8452646344cfd4e662fbee05645c872049"
+2025-09-21T17:53:46.884Z [info]: Transaction mined 0x114fa5f53141c7a5732b7c2bbb049d8452646344cfd4e662fbee05645c872049  
+2025-09-21T17:53:46.976Z [info]: Job 105 completed for queueId=bc5f8e38-7406-41a0-8498-43f7c4d7aa03
+2025-09-21T17:53:46.977Z [info]: Processing job 106 for queueId 146bbb5b-b88e-4743-93ed-b3df307ab9a6
+2025-09-21T17:53:49.156Z [info]: Transaction sent: "0xcf6a20880e9b6fe234e3e04a92e904b1db36ccb35052c39fc8f32bf351132b9c"
+2025-09-21T17:53:55.078Z [info]: Transaction mined 0xcf6a20880e9b6fe234e3e04a92e904b1db36ccb35052c39fc8f32bf351132b9c  
+2025-09-21T17:53:55.480Z [info]: Job 106 completed for queueId=146bbb5b-b88e-4743-93ed-b3df307ab9a6
+2025-09-21T17:53:55.481Z [info]: Processing job 107 for queueId 9735d3dc-510e-4071-86b1-8a5d0a615215
+2025-09-21T17:53:57.750Z [info]: Transaction sent: "0x031ab8670b1f8e551d3f28ce9b41b81291e842eefd785b27538a332bf472ea97"
+2025-09-21T17:53:58.230Z [info]: Transaction mined 0x031ab8670b1f8e551d3f28ce9b41b81291e842eefd785b27538a332bf472ea97  
+2025-09-21T17:53:58.321Z [info]: Job 107 completed for queueId=9735d3dc-510e-4071-86b1-8a5d0a615215
+2025-09-21T17:53:58.322Z [info]: Processing job 108 for queueId cfde410b-6241-4c02-b13a-f2a92503dfbf
+2025-09-21T17:54:00.715Z [info]: Transaction sent: "0x8efc374e532a0ee18be2b858403a7e250d954b57ec3d220a3585ff6d7eea7325"
+2025-09-21T17:54:06.647Z [info]: Transaction mined 0x8efc374e532a0ee18be2b858403a7e250d954b57ec3d220a3585ff6d7eea7325  
+2025-09-21T17:54:06.740Z [info]: Job 108 completed for queueId=cfde410b-6241-4c02-b13a-f2a92503dfbf
+2025-09-21T17:54:06.741Z [info]: Processing job 109 for queueId 551ca69b-52e6-4d82-8bd7-ba5538eaa743
+2025-09-21T17:54:13.817Z [info]: Transaction sent: "0xa9515179d3e5452933e7542df35a7e6f08902a9dc22c9f0b10a7bb4810704e8d"
+2025-09-21T17:54:14.316Z [info]: Transaction mined 0xa9515179d3e5452933e7542df35a7e6f08902a9dc22c9f0b10a7bb4810704e8d  
+2025-09-21T17:54:14.413Z [info]: Job 109 completed for queueId=551ca69b-52e6-4d82-8bd7-ba5538eaa743
+2025-09-21T17:54:14.414Z [info]: Processing job 110 for queueId ab95fdd2-9a4b-43fd-8ba5-6d1722ba85dc
+2025-09-21T17:54:16.572Z [info]: Transaction sent: "0xd36db65cfc116afb30f5759b0d82a3463d232476ae80a5bf60411ee48c70b1bf"
+2025-09-21T17:54:22.599Z [info]: Transaction mined 0xd36db65cfc116afb30f5759b0d82a3463d232476ae80a5bf60411ee48c70b1bf  
+2025-09-21T17:54:22.693Z [info]: Job 110 completed for queueId=ab95fdd2-9a4b-43fd-8ba5-6d1722ba85dc
+2025-09-21T17:54:22.693Z [info]: Processing job 111 for queueId 11541f2f-0f7d-4966-9397-4fef2fff15cd
+2025-09-21T17:54:24.984Z [info]: Transaction sent: "0xbd3287e3433d818b26f15b67917bc61a274470a143d4deeea34ba4c009e212e3"
+2025-09-21T17:54:30.905Z [info]: Transaction mined 0xbd3287e3433d818b26f15b67917bc61a274470a143d4deeea34ba4c009e212e3  
+2025-09-21T17:54:30.999Z [info]: Job 111 completed for queueId=11541f2f-0f7d-4966-9397-4fef2fff15cd
+2025-09-21T17:54:31.000Z [info]: Processing job 112 for queueId 6298a5e4-8212-4501-91ac-1e91c0eed769
+2025-09-21T17:54:33.367Z [info]: Transaction sent: "0x381232b7938fe12d408293f3aa44e31535e5a724e188d354edf6c802ec2ff032"
+2025-09-21T17:54:39.314Z [info]: Transaction mined 0x381232b7938fe12d408293f3aa44e31535e5a724e188d354edf6c802ec2ff032  
+2025-09-21T17:54:39.412Z [info]: Job 112 completed for queueId=6298a5e4-8212-4501-91ac-1e91c0eed769
+2025-09-21T17:54:39.412Z [info]: Processing job 113 for queueId 0887e8d3-6a37-4ee5-a836-552b87d87652
+2025-09-21T17:54:41.468Z [info]: Transaction sent: "0x13d67b7ab9b350fdfb6515c009558db5cc36e616c33d15a92734c77fa7141289"
+2025-09-21T17:54:47.488Z [info]: Transaction mined 0x13d67b7ab9b350fdfb6515c009558db5cc36e616c33d15a92734c77fa7141289  
+2025-09-21T17:54:47.581Z [info]: Job 113 completed for queueId=0887e8d3-6a37-4ee5-a836-552b87d87652
+2025-09-21T17:54:47.582Z [info]: Processing job 114 for queueId 7a246548-220e-4e44-af5e-1e6571afa80f
+2025-09-21T17:54:49.661Z [info]: Transaction sent: "0xfde5a392312047f527322c015c29c635cea11f9379d61826088af4cc65c24afe"
+2025-09-21T17:54:50.176Z [info]: Transaction mined 0xfde5a392312047f527322c015c29c635cea11f9379d61826088af4cc65c24afe  
+2025-09-21T17:54:50.267Z [info]: Job 114 completed for queueId=7a246548-220e-4e44-af5e-1e6571afa80f
+2025-09-21T17:54:50.268Z [info]: Processing job 115 for queueId 10973480-1639-41d9-850c-a5c0131a6b30
+2025-09-21T17:54:52.516Z [info]: Transaction sent: "0xc6e506a1d4f25acfcc639e2d9ae494cc4e9d3cc3a3e8ff981299df842d38d76e"
+2025-09-21T17:54:58.457Z [info]: Transaction mined 0xc6e506a1d4f25acfcc639e2d9ae494cc4e9d3cc3a3e8ff981299df842d38d76e  
+2025-09-21T17:54:58.553Z [info]: Job 115 completed for queueId=10973480-1639-41d9-850c-a5c0131a6b30
+2025-09-21T17:54:58.554Z [info]: Processing job 116 for queueId fd602d24-3f56-4b67-8cd6-d58d3472d550
+2025-09-21T17:55:00.731Z [info]: Transaction sent: "0x2d8dd528276c832a2392cff44ab827a8cdee5b2a32a312186372b54586dfc413"
+2025-09-21T17:55:06.734Z [info]: Transaction mined 0x2d8dd528276c832a2392cff44ab827a8cdee5b2a32a312186372b54586dfc413  
+2025-09-21T17:55:06.828Z [info]: Job 116 completed for queueId=fd602d24-3f56-4b67-8cd6-d58d3472d550
+2025-09-21T17:55:06.828Z [info]: Processing job 117 for queueId 4dff5013-d6ff-4bee-9583-a677575a8d3a
+2025-09-21T17:55:09.488Z [info]: Transaction sent: "0x73607aa1584cf8166a7acd504209dd18e3fb31237579ad257556c6e774628d62"
+2025-09-21T17:55:15.560Z [info]: Transaction mined 0x73607aa1584cf8166a7acd504209dd18e3fb31237579ad257556c6e774628d62  
+2025-09-21T17:55:15.668Z [info]: Job 117 completed for queueId=4dff5013-d6ff-4bee-9583-a677575a8d3a
+2025-09-21T17:55:15.669Z [info]: Processing job 118 for queueId 684a2576-bb05-442b-b1fe-22d8f5f8304a
+2025-09-21T17:55:18.415Z [info]: Transaction sent: "0xefa66d9addec4482bab4c67d38d6caf5817f4e41c007fc6f37527a263379be30"
+2025-09-21T17:55:24.477Z [info]: Transaction mined 0xefa66d9addec4482bab4c67d38d6caf5817f4e41c007fc6f37527a263379be30  
+2025-09-21T17:55:24.573Z [info]: Job 118 completed for queueId=684a2576-bb05-442b-b1fe-22d8f5f8304a
+2025-09-21T17:55:24.573Z [info]: Processing job 119 for queueId 0e957605-f619-42b1-9cfc-73b66c5f3e9f
+2025-09-21T17:55:26.829Z [info]: Transaction sent: "0x3be38b7166dc15c58209e257457d9762234cb4a4806027ffaa0f6675807b61ec"
+2025-09-21T17:55:32.760Z [info]: Transaction mined 0x3be38b7166dc15c58209e257457d9762234cb4a4806027ffaa0f6675807b61ec  
+2025-09-21T17:55:32.852Z [info]: Job 119 completed for queueId=0e957605-f619-42b1-9cfc-73b66c5f3e9f
+2025-09-21T17:55:32.853Z [info]: Processing job 120 for queueId 966e03ea-1281-4f67-91ee-de99043d994e
+2025-09-21T17:55:35.242Z [info]: Transaction sent: "0xa094b7c01fa25b2b650046f858eef22e60f11f2ed3d6b2dd7e17b412a7dfbedf"
+2025-09-21T17:55:41.411Z [info]: Transaction mined 0xa094b7c01fa25b2b650046f858eef22e60f11f2ed3d6b2dd7e17b412a7dfbedf  
+2025-09-21T17:55:41.502Z [info]: Job 120 completed for queueId=966e03ea-1281-4f67-91ee-de99043d994e
+2025-09-21T17:55:41.503Z [info]: Processing job 121 for queueId 1b57a6d5-2cbf-420e-9ae7-3e2248a5fd06
+2025-09-21T17:55:43.826Z [info]: Transaction sent: "0xf9a5a3968c22545d96c433e65dab0ccfa1faa356719962d59b05e5a977931012"
+2025-09-21T17:55:44.442Z [info]: Transaction mined 0xf9a5a3968c22545d96c433e65dab0ccfa1faa356719962d59b05e5a977931012  
+2025-09-21T17:55:44.534Z [info]: Job 121 completed for queueId=1b57a6d5-2cbf-420e-9ae7-3e2248a5fd06
+2025-09-21T17:55:44.535Z [info]: Processing job 122 for queueId 2523ea31-4b40-4935-8e3d-addbb38e7332
+2025-09-21T17:55:46.793Z [info]: Transaction sent: "0x509d04f66303057fdc8072107688cfab1eda26d3adb64c31715412f650d2f7d4"
+2025-09-21T17:55:52.729Z [info]: Transaction mined 0x509d04f66303057fdc8072107688cfab1eda26d3adb64c31715412f650d2f7d4  
+2025-09-21T17:55:52.824Z [info]: Job 122 completed for queueId=2523ea31-4b40-4935-8e3d-addbb38e7332
+2025-09-21T17:55:52.825Z [info]: Processing job 123 for queueId 4a8dfef2-b78b-49c5-b00c-fb18850c1794
+2025-09-21T17:55:55.171Z [info]: Transaction sent: "0xd07f29f2fb4561406ad889f3aeacc5bcc0fb9edcd18f59dbcc851af3ab6bd9f9"
+2025-09-21T17:56:01.436Z [info]: Transaction mined 0xd07f29f2fb4561406ad889f3aeacc5bcc0fb9edcd18f59dbcc851af3ab6bd9f9  
+2025-09-21T17:56:01.534Z [info]: Job 123 completed for queueId=4a8dfef2-b78b-49c5-b00c-fb18850c1794
+2025-09-21T17:56:01.535Z [info]: Processing job 124 for queueId 3af36eff-852e-4781-a095-850062fb5055
+2025-09-21T17:56:03.977Z [info]: Transaction sent: "0xaedcf8a2881a112d538d480f029f83988909185adaa5e3378293d04657965d8f"
+2025-09-21T17:56:04.602Z [info]: Transaction mined 0xaedcf8a2881a112d538d480f029f83988909185adaa5e3378293d04657965d8f  
+2025-09-21T17:56:04.703Z [info]: Job 124 completed for queueId=3af36eff-852e-4781-a095-850062fb5055
+2025-09-21T17:56:04.704Z [info]: Processing job 125 for queueId b56e337b-16c8-46f6-a826-9ec8732d984b
+2025-09-21T17:56:06.977Z [info]: Transaction sent: "0xb6b109437013508d933e2529f4224d7be32cc2f8128fab0bbd0adf619415a52e"
+2025-09-21T17:56:12.996Z [info]: Transaction mined 0xb6b109437013508d933e2529f4224d7be32cc2f8128fab0bbd0adf619415a52e  
+2025-09-21T17:56:13.091Z [info]: Job 125 completed for queueId=b56e337b-16c8-46f6-a826-9ec8732d984b
+2025-09-21T17:56:13.092Z [info]: Processing job 126 for queueId c15e4f47-e246-4ccc-b151-0eedccc19ef6
+2025-09-21T17:56:15.428Z [info]: Transaction sent: "0x03c5b974d182d023c5d84495492f6652e083cd9ca20ba831d4d98236500e4fc5"
+2025-09-21T17:56:21.602Z [info]: Transaction mined 0x03c5b974d182d023c5d84495492f6652e083cd9ca20ba831d4d98236500e4fc5  
+2025-09-21T17:56:21.697Z [info]: Job 126 completed for queueId=c15e4f47-e246-4ccc-b151-0eedccc19ef6
+2025-09-21T17:56:21.697Z [info]: Processing job 127 for queueId bd686488-ffe6-4ba1-8465-4866c000523d
+2025-09-21T17:56:23.860Z [info]: Transaction sent: "0x651338ebe66fa61002ba5ef2ec264a5935d807f6ea56a3edf7b39ea184162f4a"
+2025-09-21T17:56:24.475Z [info]: Transaction mined 0x651338ebe66fa61002ba5ef2ec264a5935d807f6ea56a3edf7b39ea184162f4a  
+2025-09-21T17:56:24.571Z [info]: Job 127 completed for queueId=bd686488-ffe6-4ba1-8465-4866c000523d
+2025-09-21T17:56:24.572Z [info]: Processing job 128 for queueId 9b8330db-38f9-488d-a233-0ab312a8f67a
+2025-09-21T17:56:26.829Z [info]: Transaction sent: "0x6d20f431b7480e200452c48d59fa9547af2755ea8cda528fcb97fbc0edf8d25f"
+2025-09-21T17:56:32.968Z [info]: Transaction mined 0x6d20f431b7480e200452c48d59fa9547af2755ea8cda528fcb97fbc0edf8d25f  
+2025-09-21T17:56:33.070Z [info]: Job 128 completed for queueId=9b8330db-38f9-488d-a233-0ab312a8f67a
+2025-09-21T17:56:33.071Z [info]: Processing job 129 for queueId 94b8ed36-aed8-4eb8-b359-f9534602afee
+2025-09-21T17:56:35.738Z [info]: Transaction sent: "0x15a40acec9bc26faabce305922af067aff979416b5e43a0d24ffb7985941cc3e"
+2025-09-21T17:56:36.341Z [info]: Transaction mined 0x15a40acec9bc26faabce305922af067aff979416b5e43a0d24ffb7985941cc3e  
+2025-09-21T17:56:36.443Z [info]: Job 129 completed for queueId=94b8ed36-aed8-4eb8-b359-f9534602afee
+2025-09-21T17:56:36.444Z [info]: Processing job 130 for queueId 512bc9f8-f9d8-430d-842f-7573d0d87507
+2025-09-21T17:56:38.910Z [info]: Transaction sent: "0xbef2067b25d3118466a58cbd8f04de497eb4b6570f8fb6d9534a2c461960124b"
+2025-09-21T17:56:45.049Z [info]: Transaction mined 0xbef2067b25d3118466a58cbd8f04de497eb4b6570f8fb6d9534a2c461960124b  
+2025-09-21T17:56:45.147Z [info]: Job 130 completed for queueId=512bc9f8-f9d8-430d-842f-7573d0d87507
+2025-09-21T17:56:45.147Z [info]: Processing job 131 for queueId e05f224b-a137-42c3-b505-5b90fd20ab41
+2025-09-21T17:56:47.411Z [info]: Transaction sent: "0xfeeee203dc3445c132e0ee42b0fc26bd69a9849e7f62036cabcdc0a07be7424f"
+2025-09-21T17:56:53.441Z [info]: Transaction mined 0xfeeee203dc3445c132e0ee42b0fc26bd69a9849e7f62036cabcdc0a07be7424f  
+2025-09-21T17:56:53.542Z [info]: Job 131 completed for queueId=e05f224b-a137-42c3-b505-5b90fd20ab41
+2025-09-21T17:56:53.543Z [info]: Processing job 132 for queueId 1afb1849-5b2e-4282-8004-229e99325aea
+2025-09-21T17:56:55.717Z [info]: Transaction sent: "0x60385b1de63b251f7bc37f7f72b1df62dec4e9363039dad737ee96e1520a5f4a"
+2025-09-21T17:56:56.307Z [info]: Transaction mined 0x60385b1de63b251f7bc37f7f72b1df62dec4e9363039dad737ee96e1520a5f4a  
+2025-09-21T17:56:56.400Z [info]: Job 132 completed for queueId=1afb1849-5b2e-4282-8004-229e99325aea
+2025-09-21T17:56:56.401Z [info]: Processing job 133 for queueId 88255ce6-c366-48c3-9576-f9822b5eb527
+2025-09-21T17:56:58.430Z [info]: Transaction sent: "0xe53ff7ab17a4328824a15ea34f1a8df7bd095d46f77ccf3e80ee72720c8bf595"
+2025-09-21T17:57:04.499Z [info]: Transaction mined 0xe53ff7ab17a4328824a15ea34f1a8df7bd095d46f77ccf3e80ee72720c8bf595  
+2025-09-21T17:57:04.601Z [info]: Job 133 completed for queueId=88255ce6-c366-48c3-9576-f9822b5eb527
+2025-09-21T17:57:04.601Z [info]: Processing job 134 for queueId 801e48e5-64d3-48ff-8e04-d7f1360f1018
+2025-09-21T17:57:06.949Z [info]: Transaction sent: "0x7e95ff4a2461b41b69cd8a0b93f8e4ae7f864d7d7e5b6f18d115ea4f1bc7afe3"
+2025-09-21T17:57:12.868Z [info]: Transaction mined 0x7e95ff4a2461b41b69cd8a0b93f8e4ae7f864d7d7e5b6f18d115ea4f1bc7afe3  
+2025-09-21T17:57:12.960Z [info]: Job 134 completed for queueId=801e48e5-64d3-48ff-8e04-d7f1360f1018
+2025-09-21T17:57:12.960Z [info]: Processing job 135 for queueId 25f0d257-2eb0-4aa4-8c1e-04e50591a13e
+2025-09-21T17:57:15.249Z [info]: Transaction sent: "0x1a2ccc014a4d3f9242d174545cdc3b7e669623535c6f8f715426089a1531ac5c"
+2025-09-21T17:57:21.671Z [info]: Transaction mined 0x1a2ccc014a4d3f9242d174545cdc3b7e669623535c6f8f715426089a1531ac5c  
+2025-09-21T17:57:21.763Z [info]: Job 135 completed for queueId=25f0d257-2eb0-4aa4-8c1e-04e50591a13e
+2025-09-21T17:57:21.764Z [info]: Processing job 136 for queueId abc388fe-da81-4222-bb23-da8d4f76b5e3
+2025-09-21T17:57:24.006Z [info]: Transaction sent: "0xce227ab9063700571cfcefb3ece48caa729eaaeba33d3da3c66cfca2a29f94b9"
+2025-09-21T17:57:24.519Z [info]: Transaction mined 0xce227ab9063700571cfcefb3ece48caa729eaaeba33d3da3c66cfca2a29f94b9  
+2025-09-21T17:57:24.615Z [info]: Job 136 completed for queueId=abc388fe-da81-4222-bb23-da8d4f76b5e3
+2025-09-21T17:57:24.616Z [info]: Processing job 137 for queueId 2a17ec1f-9a0c-4e74-8559-f6257d4678e5
+2025-09-21T17:57:27.033Z [info]: Transaction sent: "0x60960244aafd17c0115b563d59e47b66010a5729ffad2452b177bf4f6b53244a"
+2025-09-21T17:57:32.966Z [info]: Transaction mined 0x60960244aafd17c0115b563d59e47b66010a5729ffad2452b177bf4f6b53244a  
+2025-09-21T17:57:33.057Z [info]: Job 137 completed for queueId=2a17ec1f-9a0c-4e74-8559-f6257d4678e5
+2025-09-21T18:02:08.649Z [info]: Postgres Connection Successful
+2025-09-21T18:02:08.802Z [info]: Workers started successfully
+2025-09-21T18:02:08.803Z [info]: Server running on port 4000
+2025-09-21T18:02:09.484Z [info]: Retrieving transaction status for queue ID: 2a17ec1f-9a0c-4e74-8559-f6257d4678e5
+2025-09-21T18:02:09.582Z [info]: Transaction status retrieved for queue ID: {"status":"mined","transaction_hash":"0x60960244aafd17c0115b563d59e47b66010a5729ffad2452b177bf4f6b53244a"}
+2025-09-21T18:02:26.351Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.352Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.354Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.355Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.361Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.362Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.363Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.363Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.364Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.364Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.369Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.370Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.386Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.387Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.387Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.387Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.396Z [error]: Redis connection error in txQueue: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-21T18:02:26.397Z [error]: Redis connection error in pollerQueue: connect ECONNREFUSED 127.0.0.1:6379

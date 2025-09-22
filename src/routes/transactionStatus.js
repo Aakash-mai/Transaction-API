@@ -13,20 +13,20 @@ router.get("/:queueId", async (req, res) => {
         logger.info(`Retrieving transaction status for queue ID: ${queueId}`);
 
         const pool = getPool();
-        const selectQuery = ` SELECT status, tx_hash  FROM transactions WHERE queue_id = $1`;
+        const selectQuery = ` SELECT status, transaction_hash  FROM transactions WHERE queue_id = $1`;
         const result = await pool.query(selectQuery, [queueId]);
 
         if (result.rows.length === 0) {
             return res.status(404).json({ error: "Transaction not found" });
         }
 
-        logger.info(`Transaction status retrieved for queue ID: ${queueId}`);
+        logger.info(`Transaction status retrieved for queue ID: ${JSON.stringify(result.rows[0])}`);
 
         res.json({
             success: true,
             queueId: queueId,
             status: result.rows[0].status,
-            txHash: result.rows[0].tx_hash || null
+            txHash: result.rows[0].transaction_hash
         });
     } catch (err) {
         logger.error("Error retrieving transaction status", err);

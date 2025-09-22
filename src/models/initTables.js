@@ -1,9 +1,9 @@
 const { getPool } = require("../db.js");
 const logger = require("../lib/logger.js");
 async function initDb() {
-    try {
-        const pool = getPool();
-        await pool.query(`
+  try {
+    const pool = getPool();
+    await pool.query(`
       CREATE TABLE IF NOT EXISTS wallets (
         public_key TEXT NOT NULL,
         private_key TEXT NOT NULL, 
@@ -17,17 +17,17 @@ async function initDb() {
         function_signature TEXT NOT NULL,
         args JSONB,
         chain_id BIGINT NOT NULL,
-        tx_hash TEXT,
+        transaction_hash TEXT,
         status TEXT DEFAULT 'queued',
         created_at TIMESTAMP DEFAULT NOW(),
         updated_at TIMESTAMP DEFAULT NOW()
       );
     `);
 
-    } catch (err) {
-        logger.error("Failed to initialize DB schema", err);
-        process.exit(1);
-    }
+  } catch (err) {
+    logger.error("Failed to initialize DB schema", err);
+    process.exit(1);
+  }
 }
 
 module.exports = { initDb };

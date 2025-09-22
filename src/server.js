@@ -4,17 +4,21 @@ const { initDb } = require("./models/initTables.js");
 const walletsRouter = require("./routes/wallets.js");
 const transactionStatusRouter = require("./routes/transactionStatus.js");
 const logger = require("./lib/logger.js");
-const config = require("../config.js");
+const config = require("./config.js");
 
 const PORT = config.port || 4000;
 const app = express();
 app.use(express.json());
 app.use("/addWallet", walletsRouter);
 app.use("/transactionStatus", transactionStatusRouter);
+app.use("/sendTransaction", require("./routes/sendTransaction.js"));
 
 async function startServer() {
     await connectDb();
     await initDb();
+    require("./utils/txnWorker");
+    logger.info("Workers started successfully");
+
     app.get("/health", (req, res) => {
         res.json({ status: "ok" });
     });
