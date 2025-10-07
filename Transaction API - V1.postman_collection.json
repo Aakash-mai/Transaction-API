@@ -1,0 +1,104 @@
+{
+	"info": {
+		"_postman_id": "66fd4a5a-4682-4807-939f-7e8d992ab0b6",
+		"name": "Transaction API - V1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40822601"
+	},
+	"item": [
+		{
+			"name": "health",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{localTransactionApi}}/health",
+					"host": [
+						"{{localTransactionApi}}"
+					],
+					"path": [
+						"health"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addWallet",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"publicKey\":\"aakash12345\",\n    \"privateKey\":\"hoiu34hoh5i4jl34d23897edyh32urh879dhenk\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{localTransactionApi}}/addWallet",
+					"host": [
+						"{{localTransactionApi}}"
+					],
+					"path": [
+						"addWallet"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Send Transaction",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"functionSignature\": \"function testReturns()\",\n    \"args\": [],\n    \"rpcUrl\": \"https://rpc-amoy.polygon.technology/\",\n    \"contractAddress\": \"0x7ae020a9423d63315f2266d53bbe50ee4749e7fb\",\n    \"backendWallet\":\"0x220bE055a8F7c982C7d21575A3F33cF3370be953\",\n    \"chainId\": 80002\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{localTransactionApi}}/sendTransaction",
+					"host": [
+						"{{localTransactionApi}}"
+					],
+					"path": [
+						"sendTransaction"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Transaction status",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "{{localTransactionApi}}/transactionStatus/8817313b-c705-424d-b810-6788a885a2a9",
+					"host": [
+						"{{localTransactionApi}}"
+					],
+					"path": [
+						"transactionStatus",
+						"8817313b-c705-424d-b810-6788a885a2a9"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

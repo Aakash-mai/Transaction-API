@@ -5,7 +5,8 @@ async function initDb() {
     const pool = getPool();
     await pool.query(`
       CREATE TABLE IF NOT EXISTS wallets (
-        public_key TEXT NOT NULL,
+      wallet_id SERIAL PRIMARY KEY,
+        public_key TEXT UNIQUE NOT NULL,
         private_key TEXT NOT NULL, 
         created_at TIMESTAMP DEFAULT NOW()
       );

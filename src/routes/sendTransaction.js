@@ -3,13 +3,14 @@ const { ethers } = require("ethers");
 const { v4: uuidv4 } = require("uuid");
 const { getPool } = require("../db");
 const logger = require("../lib/logger");
-const { txnQueue } = require("../queue");
+const { getQueueByWalletId } = require("../queues/index");
 const config = require("../config");
 
 const router = express.Router();
 
 // POST /sendTransaction - Queue a new transaction
 router.post("/", async (req, res) => {
+    const pool = getPool();
     try {
         const { functionSignature, args, contractAddress, chainId, backendWallet } = req.body;
 
@@ -18,6 +19,21 @@ router.post("/", async (req, res) => {
         }
 
         logger.info(`Received transaction request: ${functionSignature} on ${contractAddress} for chain ${chainId}`);
+
+        // --- Start DB transaction ---
+
+        await pool.query("BEGIN");
+
+        // Fetch wallet details
+        const walletRes = await pool.query(
+            `SELECT wallet_id, private_key, public_key FROM wallets WHERE public_key = $1`,
+            [backendWallet]
+        );
+        if (walletRes.rowCount === 0) {
+            throw new Error("Backend wallet not found in DB");
+        }
+
+        const { wallet_id: walletId, private_key: privateKey } = walletRes.rows[0];
 
         // --- Wallet balance check ---
         const provider = new ethers.JsonRpcProvider(config.rpcUrl);
@@ -28,30 +44,21 @@ router.post("/", async (req, res) => {
         }
 
         const queueId = uuidv4();
-        const pool = getPool();
-        await pool.query("BEGIN");
 
         // Insert into DB
-        await pool.query(
+        const insertRes = await pool.query(
             `INSERT INTO transactions
         (queue_id,transaction_hash,backend_wallet, contract_address, chain_id, function_signature, args, status, created_at, updated_at)
        VALUES ($1,'',$2, $3, $4, $5,$6, 'queued', NOW(), NOW())`,
             [queueId, backendWallet, contractAddress, chainId, functionSignature, JSON.stringify(args)]
         );
-        if (pool.rowCount === 0) {
+        if (insertRes.rowCount === 0) {
             throw new Error("Failed to insert transaction into DB");
         }
-
-        // Fetch backend wallet private key
-        const walletRes = await pool.query(
-            `SELECT private_key FROM wallets WHERE public_key = $1`,
-            [backendWallet]
-        );
-        if (walletRes.rowCount === 0) {
-            throw new Error("Backend wallet not found");
-        }
-        const backendWalletPrivateKey = walletRes.rows[0].private_key;
         await pool.query("COMMIT");
+
+        const txnQueue = getQueueByWalletId(walletId);
+
 
         // Create transaction object for the queue
         const transaction = {
@@ -61,7 +68,7 @@ router.post("/", async (req, res) => {
             contractAddress,
             chainId,
             backendWallet,
-            backendWalletPrivateKey
+            backendWalletPrivateKey: privateKey,
         }
 
         // Add to Bull queue
@@ -75,7 +82,7 @@ router.post("/", async (req, res) => {
         );
 
         logger.info(`Transaction queued with ID: ${queueId} and Job ID: ${job.id}`);
-        res.json({ success: true, queueId });
+        res.json({ success: true, queueId, walletId });
     } catch (err) {
         await pool.query("ROLLBACK");
         logger.error("Error queueing transaction", err);

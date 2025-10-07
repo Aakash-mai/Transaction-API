@@ -5,6 +5,7 @@ const walletsRouter = require("./routes/wallets.js");
 const transactionStatusRouter = require("./routes/transactionStatus.js");
 const logger = require("./lib/logger.js");
 const config = require("./config.js");
+const { initializeWalletQueues } = require("./queues/index.js");
 
 const PORT = config.port || 4000;
 const app = express();
@@ -16,8 +17,10 @@ app.use("/sendTransaction", require("./routes/sendTransaction.js"));
 async function startServer() {
     await connectDb();
     await initDb();
-    require("./utils/txnWorker");
-    logger.info("Workers started successfully");
+
+    // Initialize all wallet queues and attach workers
+    await initializeWalletQueues();
+    logger.info(" All wallet queues and workers initialized.");
 
     app.get("/health", (req, res) => {
         res.json({ status: "ok" });
