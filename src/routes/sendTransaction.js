@@ -3,8 +3,9 @@ const { ethers } = require("ethers");
 const { v4: uuidv4 } = require("uuid");
 const { getPool } = require("../db");
 const logger = require("../lib/logger");
-const { getQueueByWalletId } = require("../queues/index");
+const { getQueue } = require("../queues/index");
 const config = require("../config");
+const { supportedChains } = require("../utils/supportedChains");
 
 const router = express.Router();
 
@@ -36,7 +37,12 @@ router.post("/", async (req, res) => {
         const { wallet_id: walletId, private_key: privateKey } = walletRes.rows[0];
 
         // --- Wallet balance check ---
-        const provider = new ethers.JsonRpcProvider(config.rpcUrl);
+        const chain = supportedChains[chainId];
+        if (!chain) {
+            throw new Error(`Unsupported chainId: ${chainId}`);
+        }
+        const rpcUrl = chain.rpcUrl;
+        const provider = new ethers.JsonRpcProvider(rpcUrl);
         const balance = await provider.getBalance(backendWallet);
 
         if (balance < ethers.parseEther("0.01")) {
@@ -57,7 +63,7 @@ router.post("/", async (req, res) => {
         }
         await pool.query("COMMIT");
 
-        const txnQueue = getQueueByWalletId(walletId);
+        const txnQueue = getQueue(walletId, chainId);
 
 
         // Create transaction object for the queue

@@ -3,10 +3,18 @@ const { ethers } = require("ethers");
 const { getPool } = require("../db");
 const config = require("../config");
 const logger = require("../lib/logger");
-const { txnQueue } = require("../queue");
+const { supportedChains } = require("../utils/supportedChains");
 
 // Process jobs from the queue
-function assignWorker(queue) {
+function assignWorker(queue, chainId) {
+
+    const chain = supportedChains[chainId];
+    if (!chain) {
+        logger.error(`Unsupported chainId=${chainId} for queue ${queue.name}`);
+        return;
+    }
+
+    const provider = new ethers.JsonRpcProvider(chain.rpcUrl);
     queue.process(async (job) => {
         const {
             queueId,
@@ -25,7 +33,6 @@ function assignWorker(queue) {
             logger.info(`[${queue.name}]Processing job ${job.id} for queueId ${queueId}`);
 
             // Send transaction to blockchain
-            const provider = new ethers.JsonRpcProvider(config.rpcUrl);
             const wallet = new ethers.Wallet(backendWalletPrivateKey, provider);
 
             // Parse function signature into ABI + contract

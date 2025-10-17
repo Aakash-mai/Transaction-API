@@ -5,5 +5,7 @@ module.exports = {
     port: process.env.PORT || 4000,
     databaseUrl: process.env.DATABASE_URL,
     redisUrl: process.env.REDIS_URL,
-    rpcUrl: process.env.RPC_URL,
+    amoyRpcUrl: process.env.AMOY_RPC_URL,
+    fujiRpcUrl: process.env.FUJI_RPC_URL,
+    opsepoliaRpcUrl: process.env.OPSEPOLIA_RPC_URL,
 };
