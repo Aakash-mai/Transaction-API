@@ -8,4 +8,8 @@ module.exports = {
     amoyRpcUrl: process.env.AMOY_RPC_URL,
     fujiRpcUrl: process.env.FUJI_RPC_URL,
     opsepoliaRpcUrl: process.env.OPSEPOLIA_RPC_URL,
+    bnbTestnetRpcUrl: process.env.BNBTESTNET_RPC_URL,
+    sepoliaRpcUrl: process.env.SEPOLIA_RPC_URL,
+    celoSepoliaRpcUrl: process.env.CELO_SEPOLIA_RPC_URL,
+    baseSepoliaRpcUrl: process.env.BASESEPOLIA_RPC_URL,
 };
