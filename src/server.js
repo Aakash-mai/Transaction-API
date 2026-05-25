@@ -1,35 +1,50 @@
-const express = require("express");
-const { connectDb, getPool } = require("./db.js");
-const { initDb } = require("./models/initTables.js");
-const walletsRouter = require("./routes/wallets.js");
-const transactionStatusRouter = require("./routes/transactionStatus.js");
-const logger = require("./lib/logger.js");
-const config = require("./config.js");
-const { initializeWalletQueues } = require("./queues/index.js");
+const app = require("./app");
+const { connectDb, disconnectDb } = require("./db");
+const { initDb } = require("./db/schema");
+const { initializeWalletQueues, closeAllQueues } = require("./queues");
+const logger = require("./lib/logger");
+const config = require("./config");
 
 const PORT = config.port || 4000;
-const app = express();
-app.use(express.json());
-app.use("/addWallet", walletsRouter);
-app.use("/transactionStatus", transactionStatusRouter);
-app.use("/sendTransaction", require("./routes/sendTransaction.js"));
+let server;
+
+async function gracefulShutdown(exitCode = 0) {
+    logger.info("Shutting down gracefully...");
+    try {
+        if (server) server.close();
+        await closeAllQueues();
+        await disconnectDb();
+    } catch (err) {
+        logger.error(`Error during shutdown: ${err.message}`);
+    }
+    process.exit(exitCode);
+}
+
+process.on("SIGTERM", () => gracefulShutdown(0));
+process.on("SIGINT",  () => gracefulShutdown(0));
+
+process.on("uncaughtException", (error) => {
+    logger.error(`Uncaught Exception: ${error}`);
+    gracefulShutdown(1);
+});
+
+process.on("unhandledRejection", (reason) => {
+    logger.error(`Unhandled Rejection: ${reason}`);
+    gracefulShutdown(1);
+});
 
 async function startServer() {
     await connectDb();
     await initDb();
-
-    // Initialize all wallet queues and attach workers
     await initializeWalletQueues();
-    logger.info(" All wallet queues and workers initialized.");
+    logger.info("All wallet queues and workers initialized.");
 
-    app.get("/health", (req, res) => {
-        res.json({ status: "ok" });
-    });
-
-    app.listen(PORT, () => {
+    server = app.listen(PORT, () => {
         logger.info(`Server running on port ${PORT}`);
     });
 }
 
-startServer();
-
+startServer().catch((err) => {
+    logger.error(`Failed to start server: ${err}`);
+    process.exit(1);
+});

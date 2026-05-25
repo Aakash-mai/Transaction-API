@@ -1,11 +1,15 @@
 const winston = require('winston');
 const WinstonDailyRotateFile = require('winston-daily-rotate-file');
 
+const istTimestamp = () =>
+    new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata", hour12: false })
+        .replace(",", "");
+
 // Define the log format
 const logFormat = winston.format.combine(
-    winston.format.timestamp(),
+    winston.format.timestamp({ format: istTimestamp }),
     winston.format.printf(({ timestamp, level, message }) => {
-        return `${timestamp} [${level}]: ${message}`;
+        return `${timestamp} IST [${level}]: ${message}`;
     })
 );
 

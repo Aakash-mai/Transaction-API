@@ -1,0 +1,39 @@
+services:
+
+  app:
+    build: .
+    container_name: transaction-api
+    restart: always
+    ports:
+      - "4000:4000"
+    env_file:
+      - .env                          # loads all vars from .env
+    environment:
+      # Override the localhost Redis URL from .env — inside Docker the Redis
+      # service is reachable by its service name, not 127.0.0.1
+      REDIS_URL: redis://redis:6379
+    volumes:
+      - ./logs:/app/logs              # persist logs on the host
+    depends_on:
+      redis:
+        condition: service_healthy    # wait for Redis to be ready before starting
+
+  redis:
+    image: redis:7-alpine
+    container_name: redis-queue
+    restart: always
+    volumes:
+      - redis-data:/data              # persist job queue across restarts
+    command: >
+      redis-server
+      --appendonly yes
+      --appendfsync everysec
+      --save 60 100
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+volumes:
+  redis-data:

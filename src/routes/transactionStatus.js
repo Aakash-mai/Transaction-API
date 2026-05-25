@@ -3,34 +3,29 @@ const router = express.Router();
 const { getPool } = require("../db");
 const logger = require("../lib/logger");
 
-//GET /transactionStatus/:queueId - Get transaction status and Transaction hash by queue ID from DB
 router.get("/:queueId", async (req, res) => {
     try {
         const { queueId } = req.params;
-        if (!queueId) {
-            throw new Error("Missing required fields");
-        }
-        logger.info(`Retrieving transaction status for queue ID: ${queueId}`);
+        logger.info(`Retrieving transaction status for queueId: ${queueId}`);
 
         const pool = getPool();
-        const selectQuery = ` SELECT status, transaction_hash  FROM transactions WHERE queue_id = $1`;
-        const result = await pool.query(selectQuery, [queueId]);
+        const result = await pool.query(
+            `SELECT status, transaction_hash FROM transactions WHERE queue_id = $1`,
+            [queueId]
+        );
 
         if (result.rows.length === 0) {
-            return res.status(404).json({ error: "Transaction not found" });
+            return res.status(404).json({ success: false, error: "Transaction not found" });
         }
 
-        logger.info(`Transaction status retrieved for queue ID: ${JSON.stringify(result.rows[0])}`);
+        const { status, transaction_hash } = result.rows[0];
+        logger.info(`Transaction status for queueId ${queueId}: ${status}`);
 
-        res.json({
-            success: true,
-            queueId: queueId,
-            status: result.rows[0].status,
-            txHash: result.rows[0].transaction_hash
-        });
+        res.json({ success: true, queueId, status, txHash: transaction_hash });
     } catch (err) {
-        logger.error("Error retrieving transaction status", err);
+        logger.error(`Error retrieving transaction status: ${err.message}`);
         res.status(500).json({ success: false, error: err.message || "Internal Server Error" });
     }
 });
+
 module.exports = router;

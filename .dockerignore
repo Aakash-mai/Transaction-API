@@ -1,0 +1,10 @@
+node_modules
+.env
+logs
+certs
+.git
+.gitignore
+.claude
+*.md
+docker-compose.yml
+Transaction\ API\ -\ V1.postman_collection.json

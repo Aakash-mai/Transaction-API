@@ -1,0 +1,26 @@
+{
+  "name": "kalp-wallet-ts",
+  "version": "1.2.8",
+  "main": "dist/index.js",
+  "module": "dist/index.m.js",
+  "unpkg": "dist/index.umd.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rm -rf dist && microbundle --tsconfig tsconfig.json --no-sourcemap --include ethers"
+  },
+  "devDependencies": {
+    "microbundle": "^0.15.1"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1",
+    "crypto-browserify": "^3.12.0",
+    "elliptic": "^6.5.5",
+    "ethers": "^5.6.4",
+    "isomorphic-unfetch": "^4.0.2",
+    "jsrsasign": "^11.1.0"
+  },
+  "browser": {
+    "crypto": "crypto-browserify"
+  }
+}
